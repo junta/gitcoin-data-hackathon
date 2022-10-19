@@ -1,0 +1,4817 @@
+grant_id,github_project_url,returncode,stdout
+7979,https://github.com/SambaGod/IkhalaPlatform,1,
+7974,https://github.com/Sol-DAO,1,
+7953,https://github.com/lexdao,1,
+7939,https://github.com/braincubation,1,
+7933,https://github.com/Gerkep/Staverse,0,"name: Staverse
+url: https://github.com/Gerkep/Staverse
+language: TypeScript
+created_since: 2
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.8
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.0391
+"
+7929,https://github.com/Shaoho-Lab/Lyon-web,0,"name: Yes3-web
+url: https://github.com/Shaoho-Lab/Yes3-web
+language: TypeScript
+created_since: 1
+updated_since: 1
+contributor_count: 3
+org_count: 1
+commit_frequency: 1.7
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.08922
+"
+7928,https://github.com/projection-finance/,1,
+7925,https://github.com/UPYouthDAO,1,
+7914,https://github.com/dnllvrvz/BioData-Inquiry,0,"name: BioData-Inquiry
+url: https://github.com/dnllvrvz/BioData-Inquiry
+language: C++
+created_since: 14
+updated_since: 3
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.0532
+"
+7912,https://github.com/EchoVerse,1,
+7902,https://github.com/Nigma-Labs/Aptos-HUB,0,"name: Aptos-HUB
+url: https://github.com/Nigma-Labs/Aptos-HUB
+language: PHP
+created_since: 2
+updated_since: 1
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07593
+"
+7898,https://github.com/MeTag-Web3/UNSD,0,"name: UNSD
+url: https://github.com/MeTag-Web3/UNSD
+language: JavaScript
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02077
+"
+7892,https://github.com/CRADLxyz,1,
+7887,https://github.com/BorderlessMoney-BOM,1,
+7877,https://github.com/inferer/,1,
+7872,https://github.com/ProjectRecomet/,1,
+7868,https://github.com/rannamedia,1,
+7860,https://github.com/pluto0004/cr3ators-website,0,"name: cr3ators-website
+url: https://github.com/pluto0004/cr3ators-website
+language: TypeScript
+created_since: 2
+updated_since: 1
+contributor_count: 4
+org_count: 2
+commit_frequency: 0.8
+recent_releases_count: 0
+updated_issues_count: 22
+closed_issues_count: 18
+comment_frequency: 1.0
+dependents_count: 2
+criticality_score: 0.20942
+"
+7858,https://github.com/AfroCryptoPunk,1,
+7857,https://github.com/quest-chains/,1,
+7856,https://github.com/SOURC3XYZ,1,
+7854,https://github.com/ggQuest,1,
+7851,https://github.com/H1na/follow_the_black_hare_FBH,0,"name: follow_the_black_hare_FBH
+url: https://github.com/H1na/follow_the_black_hare_FBH
+language: Ren'Py
+created_since: 14
+updated_since: 1
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 4
+criticality_score: 0.11658
+"
+7843,https://github.com/MedDAO-xyz,1,
+7839,https://github.com/DeFiArgentina,1,
+7833,https://github.com/50mmCollective,1,
+7825,https://github.com/EDEN-Chain/landing-page,0,"name: landing-page
+url: https://github.com/EDEN-Chain/landing-page
+language: CSS
+created_since: 3
+updated_since: 3
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+7822,https://github.com/supernovahs/Zk-Voting-,0,"name: Zk-Voting-
+url: https://github.com/supernovahs/Zk-Voting-
+language: JavaScript
+created_since: 3
+updated_since: 0
+contributor_count: 5
+org_count: 1
+commit_frequency: 1.5
+recent_releases_count: 0
+updated_issues_count: 23
+closed_issues_count: 14
+comment_frequency: 0.7
+dependents_count: 0
+criticality_score: 0.19628
+"
+7813,https://github.com/KryptikApp,1,
+7812,https://github.com/TechByChoice,1,
+7807,https://github.com/Anthropogenic/earth.api,0,"name: earth.api
+url: https://github.com/Anthropogenic/earth.api
+language: JavaScript
+created_since: 7
+updated_since: 2
+contributor_count: 1
+org_count: 1
+commit_frequency: 2.4
+recent_releases_count: 1
+updated_issues_count: 19
+closed_issues_count: 7
+comment_frequency: 1.0
+dependents_count: 0
+criticality_score: 0.17489
+"
+7798,https://github.com/Soptq/forta-bot-myth,0,"name: forta-bot-myth
+url: https://github.com/Soptq/forta-bot-myth
+language: None
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+7793,https://github.com/ghking1/talentale,0,"name: talentale
+url: https://github.com/ghking1/talentale
+language: JavaScript
+created_since: 5
+updated_since: 5
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02077
+"
+7791,https://github.com/DefiLlama/chainlist,0,"name: chainlist
+url: https://github.com/DefiLlama/chainlist
+language: JavaScript
+created_since: 20
+updated_since: 0
+contributor_count: 100
+org_count: 3
+commit_frequency: 4.0
+recent_releases_count: 0
+updated_issues_count: 85
+closed_issues_count: 81
+comment_frequency: 1.8
+dependents_count: 0
+criticality_score: 0.40249
+"
+7785,https://github.com/orb-club,1,
+7775,https://github.com/regodo,1,
+7773,https://github.com/DeSciAfrica,1,
+7772,https://github.com/onchain-art,1,
+7766,https://github.com/IKalonji/CooperDB,0,"name: CooperDB
+url: https://github.com/IKalonji/CooperDB
+language: Python
+created_since: 2
+updated_since: 1
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.6
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 3
+criticality_score: 0.0811
+"
+7765,https://github.com/Forart-ai,1,
+7764,https://github.com/Plurigrid,1,
+7759,https://github.com/tic-tac-token/ttt-book,0,"name: ttt-book
+url: https://github.com/tic-tac-token/ttt-book
+language: Dockerfile
+created_since: 7
+updated_since: 5
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.6
+recent_releases_count: 0
+updated_issues_count: 5
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.09179
+"
+7754,https://github.com/NousSystems/nousMarket,1,
+7750,https://github.com/0xngmi/tubby-lending,0,"name: contracts
+url: https://github.com/LlamaLend/contracts
+language: Solidity
+created_since: 3
+updated_since: 0
+contributor_count: 4
+org_count: 1
+commit_frequency: 1.9
+recent_releases_count: 0
+updated_issues_count: 9
+closed_issues_count: 6
+comment_frequency: 1.6
+dependents_count: 0
+criticality_score: 0.20049
+"
+7737,https://github.com/elshan-eth/,1,
+7735,https://github.com/orgs/mark3d-xyz/,1,
+7734,https://github.com/kempsterrrr/P3RKS,0,"name: P3RKS
+url: https://github.com/kempsterrrr/P3RKS
+language: TypeScript
+created_since: 6
+updated_since: 2
+contributor_count: 3
+org_count: 2
+commit_frequency: 3.2
+recent_releases_count: 0
+updated_issues_count: 16
+closed_issues_count: 12
+comment_frequency: 0.9
+dependents_count: 0
+criticality_score: 0.20194
+"
+7733,https://github.com/warp-contracts,1,
+7724,https://github.com/igar1991/swarm-wiki,0,"name: swarm-wiki
+url: https://github.com/igar1991/swarm-wiki
+language: JavaScript
+created_since: 4
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 2.3
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.06158
+"
+7723,https://github.com/orgs/One-Earth-Ecoverse/repositories,1,
+7720,https://github.com/openluckteam,1,
+7719,https://github.com/EsyWin/discord-google-calendar,0,"name: discord-google-calendar
+url: https://github.com/EsyWin/discord-google-calendar
+language: TypeScript
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.02556
+"
+7716,https://github.com/asteroid-dao/weavedb,0,"name: weavedb
+url: https://github.com/weavedb/weavedb
+language: JavaScript
+created_since: 4
+updated_since: 0
+contributor_count: 1
+org_count: 1
+commit_frequency: 1.8
+recent_releases_count: 0
+updated_issues_count: 65
+closed_issues_count: 63
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.16783
+"
+7713,https://github.com/antoncoding/grappa,0,"name: grappa
+url: https://github.com/antoncoding/grappa
+language: Solidity
+created_since: 7
+updated_since: 0
+contributor_count: 2
+org_count: 0
+commit_frequency: 2.6
+recent_releases_count: 0
+updated_issues_count: 71
+closed_issues_count: 57
+comment_frequency: 0.8
+dependents_count: 0
+criticality_score: 0.18569
+"
+7709,https://github.com/Sulstice/global-chem,0,"name: global-chem
+url: https://github.com/Sulstice/global-chem
+language: Jupyter Notebook
+created_since: 30
+updated_since: 1
+contributor_count: 20
+org_count: 9
+commit_frequency: 23.4
+recent_releases_count: 26
+updated_issues_count: 89
+closed_issues_count: 35
+comment_frequency: 0.6
+dependents_count: 10
+criticality_score: 0.4963
+"
+7702,https://github.com/RoloiMoney/roloi-polkadot-w3f-grant,0,"name: roloi-polkadot-w3f-grant
+url: https://github.com/RoloiMoney/roloi-polkadot-w3f-grant
+language: Rust
+created_since: 4
+updated_since: 3
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03582
+"
+7699,https://github.com/Mu-Methods,1,
+7698,https://github.com/iamcem007,1,
+7692,https://github.com/0xidase/Malicious-Contract-Detector,0,"name: Malicious-Contract-Detector
+url: https://github.com/venglov/Malicious-Contract-Detector
+language: None
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+7691,https://github.com/jik8191/pasta-solidity,0,"name: pasta-solidity
+url: https://github.com/jik8191/pasta-solidity
+language: None
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02077
+"
+7687,https://github.com/Starknet-Recovery-Service,1,
+7675,https://github.com/Az0s/Contri.build-SBT,0,"name: Contri.build-SBT
+url: https://github.com/Az0s/Contri.build-SBT
+language: Solidity
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05316
+"
+7674,https://github.com/7808eth,1,
+7672,https://github.com/Soptq/forta-bot-contract-personation,0,"name: forta-bot-contract-personation
+url: https://github.com/Soptq/forta-bot-contract-personation
+language: None
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+7665,https://github.com/nftpinas-eth,1,
+7664,https://github.com/kristian-Zf/desci,0,"name: desci
+url: https://github.com/kristian-Zf/desci
+language: HTML
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 10
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.13842
+"
+7663,https://github.com/efdevcon/DIPs/blob/master/DIPs/DIP-23.md,1,
+7662,https://github.com/mentholprotocol,1,
+7659,https://github.com/raycast/extensions/tree/main/extensions/web3-profile,1,
+7658,https://github.com/Soptq/forta-bot-umbra,0,"name: forta-bot-umbra
+url: https://github.com/Soptq/forta-bot-umbra
+language: None
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+7651,https://github.com/jackalopeio/bonsai,0,"name: Bonsai
+url: https://github.com/jackalopeio/Bonsai
+language: Blade
+created_since: 30
+updated_since: 19
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.06869
+"
+7646,https://github.com/orgs/Sugoi-protocol/,1,
+7638,https://github.com/zk-nullifier-sig/zk-nullifier-sig,0,"name: zk-nullifier-sig
+url: https://github.com/zk-nullifier-sig/zk-nullifier-sig
+language: Rust
+created_since: 3
+updated_since: 0
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.3
+recent_releases_count: 0
+updated_issues_count: 4
+closed_issues_count: 3
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.08951
+"
+7637,https://github.com/turkishens,1,
+7636,https://github.com/AnnAnna25;,1,
+7620,https://github.com/efdevcon/DIPs/blob/master/DIPs/DIP-22.md,1,
+7617,https://github.com/ryptoc/ethseoul-desci,0,"name: ethseoul-desci
+url: https://github.com/ryptoc/ethseoul-desci
+language: TypeScript
+created_since: 2
+updated_since: 2
+contributor_count: 2
+org_count: 0
+commit_frequency: 1.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.04298
+"
+7615,https://github.com/bilinkis/ethereum-uncensored,0,"name: ethereum-uncensored
+url: https://github.com/bilinkis/ethereum-uncensored
+language: JavaScript
+created_since: 2
+updated_since: 2
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07126
+"
+7613,https://github.com/BesteamDevelopment,1,
+7610,https://github.com/LunarPunk-Labs,1,
+7607,https://github.com/appcalipse/meet-with-wallet-contracts,0,"name: meet-with-wallet-contracts
+url: https://github.com/appcalipse/meet-with-wallet-contracts
+language: Solidity
+created_since: 9
+updated_since: 0
+contributor_count: 4
+org_count: 4
+commit_frequency: 0.8
+recent_releases_count: 0
+updated_issues_count: 4
+closed_issues_count: 3
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.21061
+"
+7604,https://github.com/cerescredit,1,
+7602,https://github.com/upala-digital-identity/group-manager-cli,0,"name: group-manager-cli
+url: https://github.com/upala-digital-identity/group-manager-cli
+language: JavaScript
+created_since: 14
+updated_since: 4
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.08457
+"
+7601,https://github.com/proofofsoulprotocol/smart-contract-wallet-4337,0,"name: smart-contract-wallet-4337
+url: https://github.com/proofofsoulprotocol/smart-contract-wallet-4337
+language: Solidity
+created_since: 4
+updated_since: 0
+contributor_count: 6
+org_count: 1
+commit_frequency: 2.7
+recent_releases_count: 0
+updated_issues_count: 35
+closed_issues_count: 35
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.19902
+"
+7598,https://github.com/templeofthefox,1,
+7597,https://github.com/ScriptusApp/whitepaper,0,"name: whitepaper
+url: https://github.com/ScriptusApp/whitepaper
+language: None
+created_since: 5
+updated_since: 4
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02524
+"
+7584,https://github.com/jxyang44/MyLuksoWalletv2,0,"name: MyLuksoWalletv2
+url: https://github.com/jxyang44/MyLuksoWalletv2
+language: JavaScript
+created_since: 3
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 2.3
+recent_releases_count: 1
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06885
+"
+7581,https://github.com/womenbuildweb3,1,
+7580,https://github.com/CryptoDo-app,1,
+7579,https://github.com/WiW3,1,
+7577,https://github.com/nervosland,1,
+7574,https://github.com/PacDAO,1,
+7573,https://github.com/Replabs,1,
+7569,https://github.com/GiroGiroAI,1,
+7568,https://github.com/FiveElementsLabs/orbit-defi,0,"name: orbit-defi
+url: https://github.com/FiveElementsLabs/orbit-defi
+language: TypeScript
+created_since: 8
+updated_since: 1
+contributor_count: 8
+org_count: 1
+commit_frequency: 11.8
+recent_releases_count: 0
+updated_issues_count: 14
+closed_issues_count: 14
+comment_frequency: 0.0
+dependents_count: 42
+criticality_score: 0.27986
+"
+7563,https://github.com/AbjaDAO,1,
+7554,https://github.com/0x-echo,1,
+7552,https://github.com/Plants-And-Pillars,1,
+7549,https://github.com/adotsearch,1,
+7547,https://github.com/Fluidspeed,1,
+7545,https://github.com/Smoothdiscovery,1,
+7541,https://github.com/Blockversity/Blockversity,1,
+7536,https://github.com/Yoaker,1,
+7534,https://github.com/RektifyAI,1,
+7528,https://github.com/nafidurmus,1,
+7527,https://github.com/barterchain,1,
+7525,https://github.com/the-candy-shop/starksheet-monorepo,0,"name: starksheet-monorepo
+url: https://github.com/the-candy-shop/starksheet-monorepo
+language: TypeScript
+created_since: 4
+updated_since: 0
+contributor_count: 2
+org_count: 2
+commit_frequency: 3.7
+recent_releases_count: 0
+updated_issues_count: 29
+closed_issues_count: 29
+comment_frequency: 1.0
+dependents_count: 6
+criticality_score: 0.26137
+"
+7522,https://github.com/kaptankabasakal,1,
+7519,https://github.com/TheRougeProject,1,
+7518,https://github.com/brahmapsen/CFC,0,"name: CFC
+url: https://github.com/brahmapsen/CFC
+language: JavaScript
+created_since: 4
+updated_since: 3
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02773
+"
+7516,https://github.com/brahmapsen/CFC,0,"name: CFC
+url: https://github.com/brahmapsen/CFC
+language: JavaScript
+created_since: 4
+updated_since: 3
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02773
+"
+7512,https://github.com/3SeedsDAO,1,
+7505,https://github.com/ThreeDotsTech/Otomee,0,"name: Otomee
+url: https://github.com/ThreeDotsTech/Otomee
+language: TypeScript
+created_since: 10
+updated_since: 1
+contributor_count: 1
+org_count: 10
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.17862
+"
+7504,https://github.com/Ensvixen,1,
+7503,https://github.com/sociallayer-im/sola-contracts,0,"name: sola-contracts
+url: https://github.com/sociallayer-im/sola-contracts
+language: Solidity
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02077
+"
+7502,https://github.com/Minidomn,1,
+7500,https://github.com/move-dao,1,
+7497,https://github.com/lotuna,1,
+7496,https://github.com/cnrmck/option,0,"name: option
+url: https://github.com/cnrmck/option
+language: None
+created_since: 1
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02225
+"
+7495,https://github.com/renegaderegen,1,
+7494,https://github.com/nedhorning/TerrapinTracker,0,"name: TerrapinTracker
+url: https://github.com/nedhorning/TerrapinTracker
+language: HTML
+created_since: 31
+updated_since: 20
+contributor_count: 4
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.0888
+"
+7493,https://github.com/ATXDAO,1,
+7489,https://github.com/carllippert/floo_network,0,"name: floo_network
+url: https://github.com/carllippert/floo_network
+language: Solidity
+created_since: 5
+updated_since: 1
+contributor_count: 1
+org_count: 1
+commit_frequency: 1.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09353
+"
+7485,https://github.com/mecxdao,1,
+7484,https://github.com/friends-of-pooly,1,
+7482,https://github.com/leomarlo/voting-registry-contracts,0,"name: voting-registry-contracts
+url: https://github.com/leomarlo/voting-registry-contracts
+language: TypeScript
+created_since: 6
+updated_since: 1
+contributor_count: 1
+org_count: 1
+commit_frequency: 3.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.10873
+"
+7481,https://github.com/Wise-Crowds-Liberating-Structures,1,
+7480,https://github.com/4metaverse/bookswap-unstoppable-domain,0,"name: bookswap-unstoppable-domain
+url: https://github.com/marcialarturo/bookswap-unstoppable-domain
+language: JavaScript
+created_since: 2
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02909
+"
+7477,https://github.com/OpenCampusTR,1,
+7475,https://github.com/orgs/Committable/repositories,1,
+7466,https://github.com/Mindinn,1,
+7465,https://github.com/ModelLabs,1,
+7464,https://github.com/0xDeadList,1,
+7463,https://github.com/ASCAN-Training,1,
+7460,https://github.com/velarxneo/realms-react,0,"name: realms-react
+url: https://github.com/velarxneo/realms-react
+language: JavaScript
+created_since: 11
+updated_since: 0
+contributor_count: 11
+org_count: 0
+commit_frequency: 25.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.18541
+"
+7455,https://github.com/starknet-id,1,
+7452,https://github.com/dottyland/impact-score.git,1,
+7451,https://github.com/CrypMetis,1,
+7446,https://github.com/marioramirez159/Reunited,0,"name: Reunited
+url: https://github.com/marioramirez159/Reunited
+language: JavaScript
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02077
+"
+7445,https://github.com/Proots-Foundation/proots-client-v1,1,
+7443,https://github.com/wonderwomancode/web3-art-workshop,0,"name: web3-art-workshop
+url: https://github.com/wonderwomancode/web3-art-workshop
+language: None
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05316
+"
+7439,https://github.com/BitRavener,1,
+7438,https://github.com/bvlaar/mangrove,1,
+7436,https://github.com/beyond-decentralized,1,
+7433,https://github.com/412technology/hazelverse,1,
+7432,https://github.com/gskril/ens-fairy,0,"name: ens-fairy
+url: https://github.com/gskril/ens-fairy
+language: JavaScript
+created_since: 4
+updated_since: 0
+contributor_count: 1
+org_count: 0
+commit_frequency: 1.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07281
+"
+7431,https://github.com/SciDAO-Reviews,1,
+7430,https://github.com/nate1123,1,
+7429,https://github.com/Generative-Labs/web3-mq-sdk,0,"name: web3-mq-sdk
+url: https://github.com/Generative-Labs/web3-mq-sdk
+language: TypeScript
+created_since: 2
+updated_since: 0
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.8
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06731
+"
+7427,https://github.com/FluidNFT/commercial-licensing,0,"name: commercial-licensing
+url: https://github.com/FluidNFT/commercial-licensing
+language: None
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05316
+"
+7418,https://github.com/laborigin/w3.work,0,"name: w3.work
+url: https://github.com/laborigin/w3.work
+language: Vue
+created_since: 2
+updated_since: 2
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03992
+"
+7414,https://github.com/niemacodes/heritage-celo,0,"name: heritage-celo
+url: https://github.com/niemacodes/heritage-celo
+language: JavaScript
+created_since: 8
+updated_since: 2
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.7
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07428
+"
+7412,https://github.com/justshillstheethicalway,1,
+7411,https://github.com/TheDeSciAcademy,1,
+7408,https://github.com/NFTrack,1,
+7407,https://github.com/moleculeprotocol/desciglobal/blob/main/README.md,1,
+7404,https://github.com/ProxifyDAO/ProXify-DAO,1,
+7401,https://github.com/Filecoin-Domains,1,
+7399,https://github.com/Metaverse-Builders-DAO/,1,
+7398,https://github.com/Commubase,1,
+7397,https://github.com/cnscommunity,1,
+7394,https://github.com/GloriView,1,
+7391,https://github.com/regen-foundation/gr15-eastafrica,1,
+7389,https://github.com/LanguageDAO,1,
+7386,https://github.com/0xperp/defi_greeks,0,"name: defi_greeks
+url: https://github.com/0xperp/defi_greeks
+language: Rust
+created_since: 6
+updated_since: 6
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02225
+"
+7385,https://github.com/FacHub,1,
+7384,https://github.com/relational-os/rlog,0,"name: rlog
+url: https://github.com/relational-os/rlog
+language: TypeScript
+created_since: 8
+updated_since: 2
+contributor_count: 5
+org_count: 0
+commit_frequency: 1.5
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.10163
+"
+7383,https://github.com/MetaTicket-eth,1,
+7380,https://github.com/sapien-nation,1,
+7379,https://github.com/cambiatus,1,
+7378,https://github.com/p2pcollab,1,
+7375,https://github.com/Athena-Protocol,1,
+7373,https://github.com/spothq/,1,
+7370,https://github.com/ElrophPycnos,1,
+7368,https://github.com/beoble/beoble-toolkit,0,"name: beoble-toolkit
+url: https://github.com/beoble/beoble-toolkit
+language: TypeScript
+created_since: 6
+updated_since: 1
+contributor_count: 4
+org_count: 1
+commit_frequency: 6.0
+recent_releases_count: 0
+updated_issues_count: 84
+closed_issues_count: 80
+comment_frequency: 1.1
+dependents_count: 0
+criticality_score: 0.23485
+"
+7366,https://github.com/RnDAO,1,
+7364,https://github.com/thewtex/shardedstore,0,"name: shardedstore
+url: https://github.com/thewtex/shardedstore
+language: Python
+created_since: 5
+updated_since: 5
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.8
+recent_releases_count: 5
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.11592
+"
+7363,https://github.com/DimaKush/Willer,0,"name: Willer
+url: https://github.com/DimaKush/Willer
+language: Python
+created_since: 2
+updated_since: 0
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.4
+recent_releases_count: 1
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.0642
+"
+7362,https://github.com/GainForest,1,
+7358,https://github.com/impactMarket,1,
+7355,https://github.com/adi99/Adicia-Website,0,"name: Adicia-Website
+url: https://github.com/adi99/Adicia-Website
+language: HTML
+created_since: 2
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03072
+"
+7354,https://github.com/Arronia,1,
+7345,https://github.com/BasicTier,1,
+7341,https://github.com/ProTeam-Edge/core,0,"name: core
+url: https://github.com/ProTeam-Edge/core
+language: HTML
+created_since: 27
+updated_since: 2
+contributor_count: 6
+org_count: 1
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 78
+criticality_score: 0.22781
+"
+7335,https://github.com/TheSCInitiative,1,
+7334,https://github.com/NeuraDAO/,1,
+7333,https://github.com/ActiveInferenceInstitute/ActiveBlockference,0,"name: ActiveBlockference
+url: https://github.com/ActiveInferenceInstitute/ActiveBlockference
+language: Jupyter Notebook
+created_since: 8
+updated_since: 2
+contributor_count: 5
+org_count: 2
+commit_frequency: 1.5
+recent_releases_count: 1
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.1679
+"
+7329,https://github.com/crunchdao/desci,0,"name: desci
+url: https://github.com/crunchdao/desci
+language: HTML
+created_since: 3
+updated_since: 1
+contributor_count: 5
+org_count: 1
+commit_frequency: 2.7
+recent_releases_count: 0
+updated_issues_count: 100
+closed_issues_count: 69
+comment_frequency: 0.4
+dependents_count: 5
+criticality_score: 0.23041
+"
+7328,https://github.com/raiz-lisbon,1,
+7326,https://github.com/peopleslandbank,1,
+7325,https://github.com/phas3labs,1,
+7323,https://github.com/socious-io,1,
+7317,https://github.com/haonearth,1,
+7316,https://github.com/RingsNetwork/rings-node,0,"name: rings-node
+url: https://github.com/RingsNetwork/rings-node
+language: Rust
+created_since: 10
+updated_since: 0
+contributor_count: 5
+org_count: 2
+commit_frequency: 8.3
+recent_releases_count: 1
+updated_issues_count: 62
+closed_issues_count: 61
+comment_frequency: 0.2
+dependents_count: 0
+criticality_score: 0.27742
+"
+7315,https://github.com/scallionsteak/sg-full-stack,0,"name: sg-full-stack
+url: https://github.com/ScallionSteak/sg-full-stack
+language: TypeScript
+created_since: 4
+updated_since: 2
+contributor_count: 4
+org_count: 0
+commit_frequency: 1.5
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.07738
+"
+7314,https://github.com/Ultrapods,1,
+7311,https://github.com/0xNextLabs,1,
+7302,https://github.com/TaterDAO/app,0,"name: app
+url: https://github.com/TaterDAO/app
+language: TypeScript
+created_since: 7
+updated_since: 1
+contributor_count: 1
+org_count: 1
+commit_frequency: 2.7
+recent_releases_count: 0
+updated_issues_count: 17
+closed_issues_count: 15
+comment_frequency: 0.8
+dependents_count: 0
+criticality_score: 0.17349
+"
+7297,https://github.com/dolven-labs-catalyst,1,
+7292,https://github.com/Scopefy,1,
+7289,https://github.com/HausDAO,1,
+7288,https://github.com/Leevtis,1,
+7286,https://github.com/Barabazs/py-is_ipfs,0,"name: py-is_ipfs
+url: https://github.com/Barabazs/py-is_ipfs
+language: Python
+created_since: 7
+updated_since: 4
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.4
+recent_releases_count: 12
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.08219
+"
+7285,https://github.com/soil-labs,1,
+7277,https://github.com/4everland,1,
+7272,https://github.com/fatfingererr/govzero-frontend,0,"name: govzero-frontend
+url: https://github.com/fatfingererr/govzero-frontend
+language: Vue
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 12
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06655
+"
+7268,https://github.com/Impact-Finance,1,
+7266,https://github.com/OpenZeppelin/contract-bots-gang,0,"name: contract-bots-gang
+url: https://github.com/OpenZeppelin/contract-bots-gang
+language: TypeScript
+created_since: 3
+updated_since: 0
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.6
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06116
+"
+7265,https://github.com/SimpUnion,1,
+7261,https://github.com/eContriver/perpetuator,0,"name: perpetuator
+url: https://github.com/eContriver/perpetuator
+language: JavaScript
+created_since: 8
+updated_since: 8
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03345
+"
+7259,https://github.com/RnDAO/pulseSurvey,0,"name: pulseSurvey
+url: https://github.com/RnDAO/pulseSurvey
+language: JavaScript
+created_since: 5
+updated_since: 0
+contributor_count: 6
+org_count: 1
+commit_frequency: 0.7
+recent_releases_count: 1
+updated_issues_count: 22
+closed_issues_count: 19
+comment_frequency: 0.1
+dependents_count: 0
+criticality_score: 0.19951
+"
+7258,https://github.com/peacefulprogress25/SolarpunkDao,0,"name: SolarpunkDao
+url: https://github.com/peacefulprogress25/SolarpunkDao
+language: Solidity
+created_since: 11
+updated_since: 12
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03149
+"
+7256,https://github.com/CrypColosseum,1,
+7255,https://github.com/0xEigenLabs,1,
+7254,https://github.com/jimmygchen/staker-notifier,0,"name: staker-notifier
+url: https://github.com/jimmygchen/staker-notifier
+language: JavaScript
+created_since: 6
+updated_since: 1
+contributor_count: 4
+org_count: 0
+commit_frequency: 1.0
+recent_releases_count: 6
+updated_issues_count: 3
+closed_issues_count: 2
+comment_frequency: 0.3
+dependents_count: 0
+criticality_score: 0.15002
+"
+7252,https://github.com/Societify,1,
+7249,https://github.com/braincubation,1,
+7248,https://github.com/QuBiTUCLA,1,
+7244,https://github.com/FacesofWeb3,1,
+7243,https://github.com/teampyme,1,
+7242,https://github.com/SpaceFinance,1,
+7240,https://github.com/Rancid1616,1,
+7239,https://github.com/lxdao-official/,1,
+7234,https://github.com/Cryptopas,1,
+7233,https://github.com/idriss-crypto,1,
+7232,https://github.com/Orgassign,1,
+7231,https://github.com/holyaustin/DecentralizedLibrary,0,"name: DecentralizedLibrary
+url: https://github.com/holyaustin/DecentralizedLibrary
+language: JavaScript
+created_since: 4
+updated_since: 0
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.4
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06436
+"
+7228,https://github.com/grasslandnetwork,1,
+7224,https://github.com/climate-guardians,1,
+7223,https://github.com/zkSuite/zkforms-frontend,1,
+7222,https://github.com/Madaland,1,
+7219,https://github.com/zkPassOfficial,1,
+7218,https://github.com/NebullaX,1,
+7217,https://github.com/moonfish,1,
+7216,https://github.com/subnetter/subnet,0,"name: subnet
+url: https://github.com/subnetter/subnet
+language: Rust
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 2
+criticality_score: 0.04195
+"
+7214,https://github.com/Project-LION-AI,1,
+7213,https://github.com/Starkdefi/StarkDefi-contracts,0,"name: StarkDefi-contracts
+url: https://github.com/Starkdefi/StarkDefi-contracts
+language: Cairo
+created_since: 8
+updated_since: 2
+contributor_count: 4
+org_count: 1
+commit_frequency: 1.7
+recent_releases_count: 0
+updated_issues_count: 10
+closed_issues_count: 10
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.15545
+"
+7212,https://github.com/Tres-cool,1,
+7211,https://github.com/block-gurus,1,
+7210,https://github.com/Evolving-Space,1,
+7207,https://github.com/cashmere-labs,1,
+7206,https://github.com/minorityprogrammers,1,
+7205,https://github.com/Crystalize-Inc,1,
+7203,https://github.com/pentaclexyz/minipent,0,"name: minipent
+url: https://github.com/pentaclexyz/minipent
+language: JavaScript
+created_since: 6
+updated_since: 0
+contributor_count: 3
+org_count: 2
+commit_frequency: 1.5
+recent_releases_count: 0
+updated_issues_count: 40
+closed_issues_count: 10
+comment_frequency: 0.4
+dependents_count: 0
+criticality_score: 0.21202
+"
+7197,https://github.com/Marswap/Fluidgains,0,"name: Fluidgains
+url: https://github.com/Marswap/Fluidgains
+language: JavaScript
+created_since: 2
+updated_since: 0
+contributor_count: 4
+org_count: 1
+commit_frequency: 0.8
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.11543
+"
+7196,https://github.com/Collateralizer,1,
+7193,https://github.com/PampasCat/,1,
+7192,https://github.com/imcoding-online,1,
+7187,https://github.com/sisu-network,1,
+7184,https://github.com/GoFanz,1,
+7183,https://github.com/zepedrotrigo/zklands,0,"name: zklands
+url: https://github.com/zepedrotrigo/zklands
+language: JavaScript
+created_since: 7
+updated_since: 2
+contributor_count: 2
+org_count: 1
+commit_frequency: 1.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.10184
+"
+7180,https://github.com/MetopiaDev,1,
+7179,https://github.com/vargasarts/samepage.network,0,"name: samepage.network
+url: https://github.com/vargasarts/samepage.network
+language: TypeScript
+created_since: 4
+updated_since: 0
+contributor_count: 2
+org_count: 2
+commit_frequency: 5.8
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.15637
+"
+7174,https://github.com/teapartylife/decode-chat-app,0,"name: decode-chat-app
+url: https://github.com/teapartylife/decode-chat-app
+language: Vue
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+7169,https://github.com/GalaxChat,1,
+7168,https://github.com/hibbb/ensbook/,0,"name: ensbook
+url: https://github.com/hibbb/ensbook
+language: JavaScript
+created_since: 9
+updated_since: 2
+contributor_count: 3
+org_count: 10
+commit_frequency: 1.7
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.20239
+"
+7167,https://github.com/Fibrous-Finance,1,
+7164,https://github.com/3numdao/Signal-Desktop,0,"name: Signal-Desktop
+url: https://github.com/3numdao/Signal-Desktop
+language: None
+created_since: 107
+updated_since: 5
+contributor_count: 202
+org_count: 3
+commit_frequency: 16.8
+recent_releases_count: 64
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.39355
+"
+7163,https://github.com/discarbon,1,
+7161,https://github.com/pinkpaper/pink-paper-frontend,0,"name: pink-paper-frontend
+url: https://github.com/pinkpaper/pink-paper-frontend
+language: JavaScript
+created_since: 4
+updated_since: 4
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02077
+"
+7160,https://github.com/SportsHi/,1,
+7159,https://github.com/teapartylife/decode-chat-app,0,"name: decode-chat-app
+url: https://github.com/teapartylife/decode-chat-app
+language: Vue
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+7158,https://github.com/SharifElfouly/evm-from-scratch,0,"name: evm-from-scratch
+url: https://github.com/SharifElfouly/evm-from-scratch
+language: Python
+created_since: 5
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 1.4
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05106
+"
+7157,https://github.com/olandbox/Olandbox,0,"name: Olandbox
+url: https://github.com/olandbox/Olandbox
+language: TypeScript
+created_since: 4
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.0333
+"
+7155,https://github.com/OpenSeeds,1,
+7141,https://github.com/ColonyIslands,1,
+7140,https://github.com/project-evilcodes,1,
+7136,https://github.com/moribetamidori/DAOCrossing,1,
+7135,https://github.com/garypalmerjr,1,
+7133,https://github.com/plasmadlt,1,
+7131,https://github.com/Surfingnetwork,1,
+7127,https://github.com/atticc/web,1,
+7126,https://github.com/new-atlantis-dao/Oceanomics,0,"name: Living-Oceans-Project
+url: https://github.com/new-atlantis-dao/Living-Oceans-Project
+language: None
+created_since: 3
+updated_since: 1
+contributor_count: 2
+org_count: 1
+commit_frequency: 1.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09554
+"
+7122,https://github.com/DimasikS12/otconline-contracts/blob/main/contracts/SafeDeal.sol,1,
+7121,https://github.com/walliDprotocol/WalliD-Wallet,0,"name: WalliD-Wallet
+url: https://github.com/walliDprotocol/WalliD-Wallet
+language: None
+created_since: 3
+updated_since: 2
+contributor_count: 3
+org_count: 2
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.10088
+"
+7117,https://github.com/nimi-app/,1,
+7112,https://github.com/SixDegreeLab,1,
+7105,https://github.com/nftychat/nftychat-widgets,0,"name: nftychat-widgets
+url: https://github.com/nftychat/nftychat-widgets
+language: JavaScript
+created_since: 2
+updated_since: 2
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.04155
+"
+7102,https://github.com/Web3bazaar/raffle-tickets,0,"name: raffle-tickets
+url: https://github.com/Web3bazaar/raffle-tickets
+language: None
+created_since: 4
+updated_since: 1
+contributor_count: 3
+org_count: 1
+commit_frequency: 1.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.10897
+"
+7098,https://github.com/Infinitri-IO,1,
+7095,https://github.com/zku-cohort-4,1,
+7090,https://github.com/CloneTools/blender-clone-tools,0,"name: blender-clone-tools
+url: https://github.com/CloneTools/blender-clone-tools
+language: Python
+created_since: 3
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 1.2
+recent_releases_count: 2
+updated_issues_count: 3
+closed_issues_count: 3
+comment_frequency: 3.3
+dependents_count: 0
+criticality_score: 0.14028
+"
+7087,https://github.com/DefiLlama,1,
+7083,https://github.com/Mojo-App,1,
+7077,https://github.com/LlamaPay,1,
+7070,https://github.com/klein-fi,1,
+7066,https://github.com/Rootmeta,1,
+7064,https://github.com/TerexitariusStomp/dMeter,0,"name: dMeter
+url: https://github.com/TerexitariusStomp/dMeter
+language: None
+created_since: 5
+updated_since: 3
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 6
+closed_issues_count: 3
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.09894
+"
+7061,https://github.com/quadriproduct/trust-finance-app,1,
+7046,https://github.com/DanieleSalatti/DAppNodePackage-optimism,0,"name: DAppNodePackage-optimism
+url: https://github.com/DanieleSalatti/DAppNodePackage-optimism
+language: Shell
+created_since: 5
+updated_since: 0
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.6
+recent_releases_count: 4
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.10462
+"
+7034,https://github.com/yieldchainio,1,
+7031,https://github.com/earnmos,1,
+7028,https://github.com/eco-mint/,1,
+7024,https://github.com/dougbutner/web-4,0,"name: web-4
+url: https://github.com/dougbutner/web-4
+language: None
+created_since: 26
+updated_since: 1
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.12011
+"
+7013,https://github.com/ivanpostolski/newschain_protocol,0,"name: newschain_protocol
+url: https://github.com/ivanpostolski/newschain_protocol
+language: Python
+created_since: 3
+updated_since: 2
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06184
+"
+7010,https://github.com/nftpinas-eth,1,
+7009,https://github.com/Devzstudio/w3auth,0,"name: w3auth
+url: https://github.com/Devzstudio/w3auth
+language: TypeScript
+created_since: 3
+updated_since: 2
+contributor_count: 1
+org_count: 1
+commit_frequency: 1.7
+recent_releases_count: 0
+updated_issues_count: 22
+closed_issues_count: 22
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.12044
+"
+6998,https://github.com/lxdao-official/myfirstnft-frontend,0,"name: myfirstnft-frontend
+url: https://github.com/lxdao-official/myfirstnft-frontend
+language: JavaScript
+created_since: 3
+updated_since: 1
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 1.0
+dependents_count: 0
+criticality_score: 0.11225
+"
+6995,https://github.com/organizations/MetaportCo,1,
+6993,https://github.com/heacare/habitat-sdk-dart,0,"name: habitat-sdk-dart
+url: https://github.com/heacare/habitat-sdk-dart
+language: Dart
+created_since: 3
+updated_since: 1
+contributor_count: 3
+org_count: 1
+commit_frequency: 0.6
+recent_releases_count: 0
+updated_issues_count: 12
+closed_issues_count: 9
+comment_frequency: 0.4
+dependents_count: 0
+criticality_score: 0.14521
+"
+6972,https://github.com/lenstube-xyz/lenstube,0,"name: lenstube
+url: https://github.com/lenstube-xyz/lenstube
+language: TypeScript
+created_since: 5
+updated_since: 0
+contributor_count: 13
+org_count: 3
+commit_frequency: 24.8
+recent_releases_count: 0
+updated_issues_count: 216
+closed_issues_count: 194
+comment_frequency: 1.1
+dependents_count: 0
+criticality_score: 0.34528
+"
+6971,https://github.com/holic/web3-scaffold,0,"name: web3-scaffold
+url: https://github.com/holic/web3-scaffold
+language: TypeScript
+created_since: 9
+updated_since: 1
+contributor_count: 4
+org_count: 1
+commit_frequency: 1.0
+recent_releases_count: 0
+updated_issues_count: 17
+closed_issues_count: 6
+comment_frequency: 0.8
+dependents_count: 0
+criticality_score: 0.1881
+"
+6967,https://github.com/0xpm,1,
+6946,https://github.com/dailyfeeds,1,
+6931,https://github.com/AthanorLabs/atomic-swap,0,"name: atomic-swap
+url: https://github.com/AthanorLabs/atomic-swap
+language: Go
+created_since: 12
+updated_since: 0
+contributor_count: 8
+org_count: 4
+commit_frequency: 3.4
+recent_releases_count: 1
+updated_issues_count: 77
+closed_issues_count: 50
+comment_frequency: 0.3
+dependents_count: 0
+criticality_score: 0.30856
+"
+6907,https://github.com/VMLVaske,1,
+6899,https://github.com/Nawarat-Protocol,1,
+6892,https://github.com/anspar,1,
+6874,https://github.com/pshdev0/dexode,0,"name: dexode-sdk
+url: https://github.com/pshdev0/dexode-sdk
+language: JavaScript
+created_since: 4
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.7
+recent_releases_count: 0
+updated_issues_count: 23
+closed_issues_count: 12
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.09032
+"
+6871,https://github.com/SaveWithBuckets/Buckets_v1,0,"name: Buckets_v1
+url: https://github.com/SaveWithBuckets/Buckets_v1
+language: JavaScript
+created_since: 4
+updated_since: 1
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.6
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06878
+"
+6866,https://github.com/Energy-Node,1,
+6848,https://github.com/DIMCHERRY/NFT-Ads,1,
+6847,https://github.com/socathie/zkML,0,"name: zkML
+url: https://github.com/socathie/zkML
+language: JavaScript
+created_since: 5
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03926
+"
+6820,https://github.com/orgs/KonmaLabzIO/repositories,1,
+6819,https://github.com/w1nt3r-eth/,1,
+6799,https://github.com/DAOBuidler/MetaShieldExtension,0,"name: MetaShieldExtension
+url: https://github.com/DAOBuidler/MetaShieldExtension
+language: JavaScript
+created_since: 5
+updated_since: 0
+contributor_count: 8
+org_count: 2
+commit_frequency: 4.3
+recent_releases_count: 3
+updated_issues_count: 13
+closed_issues_count: 12
+comment_frequency: 0.2
+dependents_count: 0
+criticality_score: 0.25537
+"
+6789,https://github.com/EverGreenCoinDev/,1,
+6783,https://github.com/simpledoteth,1,
+6782,https://github.com/CosmosForHumanity?tab=repositories,1,
+6779,https://github.com/tickerdao,1,
+6760,https://github.com/coorest/coorest,1,
+6758,https://github.com/hashbon,1,
+6742,https://github.com/franz101,1,
+6739,https://github.com/SafeZenInsured/,1,
+6737,https://github.com/meteor-labs-ai/meteor-nft,0,"name: meteor-nft
+url: https://github.com/meteor-labs-ai/meteor-nft
+language: Python
+created_since: 13
+updated_since: 8
+contributor_count: 13
+org_count: 5
+commit_frequency: 3.9
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.19871
+"
+6731,https://github.com/artfrontir,1,
+6724,https://github.com/Atomicgreen,1,
+6712,https://github.com/InternetMaximalism,1,
+6707,https://github.com/LibCryptoTribe,1,
+6702,https://github.com/AnyDAO?tab=repositories,1,
+6685,https://github.com/IdentityBlockchain,1,
+6675,https://github.com/patriacaelum/proposal-inverter,0,"name: proposal-inverter
+url: https://github.com/patriacaelum/proposal-inverter
+language: Jupyter Notebook
+created_since: 21
+updated_since: 7
+contributor_count: 9
+org_count: 1
+commit_frequency: 1.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 2
+criticality_score: 0.15556
+"
+6672,https://github.com/grantrapp/grantr,0,"name: grantr
+url: https://github.com/grantrapp/grantr
+language: TypeScript
+created_since: 4
+updated_since: 1
+contributor_count: 9
+org_count: 4
+commit_frequency: 2.6
+recent_releases_count: 0
+updated_issues_count: 24
+closed_issues_count: 22
+comment_frequency: 0.1
+dependents_count: 0
+criticality_score: 0.23479
+"
+6667,https://github.com/PHI-LABS-INC,1,
+6660,https://github.com/ethsd,1,
+6659,https://github.com/raid-guild/headline,0,"name: headline
+url: https://github.com/raid-guild/headline
+language: TypeScript
+created_since: 9
+updated_since: 5
+contributor_count: 4
+org_count: 0
+commit_frequency: 5.8
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.08963
+"
+6647,https://github.com/Open-Quill-Foundation,1,
+6645,https://github.com/akiprotocol-dev?tab=repositories,1,
+6642,https://github.com/sekmet/mintships-alpha,0,"name: mintships-alpha
+url: https://github.com/sekmet/mintships-alpha
+language: TypeScript
+created_since: 6
+updated_since: 3
+contributor_count: 2
+org_count: 2
+commit_frequency: 0.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.10245
+"
+6631,https://github.com/genki-labs,1,
+6626,https://github.com/threepwave/cryptsandcaverns,0,"name: cryptsandcaverns
+url: https://github.com/threepwave/cryptsandcaverns
+language: JavaScript
+created_since: 11
+updated_since: 6
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05842
+"
+6616,https://github.com/Maven-Foundation,1,
+6610,https://github.com/beepopula,1,
+6608,https://github.com/akmanuareraa/scambuster,0,"name: scambuster
+url: https://github.com/akmanuareraa/scambuster
+language: JavaScript
+created_since: 6
+updated_since: 6
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02225
+"
+6602,https://github.com/harefund,1,
+6596,https://github.com/Multisignatures,1,
+6591,https://github.com/rift-dao/rift.live,0,"name: rift.live
+url: https://github.com/rift-dao/rift.live
+language: JavaScript
+created_since: 7
+updated_since: 7
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+6582,https://github.com/Kola-Labs/KOLA-Audio-Identity,0,"name: KOLA-Audio-Identity
+url: https://github.com/Kola-Labs/KOLA-Audio-Identity
+language: Solidity
+created_since: 5
+updated_since: 5
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+6581,https://github.com/asknfty,1,
+6574,https://github.com/raiz-lisbon,1,
+6559,https://github.com/WeLightProject/Tai-Shang-Soul-Card,0,"name: Tai-Shang-Soul-Card
+url: https://github.com/NonceGeek/Tai-Shang-Soul-Card
+language: JavaScript
+created_since: 6
+updated_since: 1
+contributor_count: 12
+org_count: 2
+commit_frequency: 4.6
+recent_releases_count: 0
+updated_issues_count: 80
+closed_issues_count: 70
+comment_frequency: 0.1
+dependents_count: 0
+criticality_score: 0.24866
+"
+6557,https://github.com/dataunions,1,
+6556,https://github.com/datawaves-xyz/DATN-frontend,1,
+6547,https://github.com/Cryptionoant,1,
+6542,https://github.com/Cryptobonded,1,
+6537,https://github.com/cobogo-io,1,
+6519,https://github.com/nftverseorg/,1,
+6505,https://github.com/safient/wallet,0,"name: wallet
+url: https://github.com/safient/wallet
+language: TypeScript
+created_since: 8
+updated_since: 3
+contributor_count: 3
+org_count: 2
+commit_frequency: 0.8
+recent_releases_count: 3
+updated_issues_count: 5
+closed_issues_count: 3
+comment_frequency: 0.2
+dependents_count: 0
+criticality_score: 0.17653
+"
+6501,https://github.com/StarfishDAO,1,
+6492,https://github.com/mail3protocol/mail3-web-client,0,"name: mail3-web-client
+url: https://github.com/mail3protocol/mail3-web-client
+language: TypeScript
+created_since: 6
+updated_since: 0
+contributor_count: 9
+org_count: 0
+commit_frequency: 18.7
+recent_releases_count: 0
+updated_issues_count: 125
+closed_issues_count: 122
+comment_frequency: 0.9
+dependents_count: 0
+criticality_score: 0.25597
+"
+6489,https://github.com/X-mob/metamob,0,"name: metamob
+url: https://github.com/X-mob/metamob
+language: TypeScript
+created_since: 5
+updated_since: 1
+contributor_count: 2
+org_count: 0
+commit_frequency: 1.0
+recent_releases_count: 0
+updated_issues_count: 5
+closed_issues_count: 5
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.09385
+"
+6487,https://github.com/Bitgianting,1,
+6477,https://github.com/penselabs/seers,1,
+6473,https://github.com/Dra-gd,1,
+6468,https://github.com/Nbankloan,1,
+6467,https://github.com/ogb-interchain,1,
+6465,https://github.com/NaturalSelectionLabs/CrossSync,0,"name: CrossSync
+url: https://github.com/Crossbell-Box/CrossSync
+language: Vue
+created_since: 5
+updated_since: 0
+contributor_count: 3
+org_count: 1
+commit_frequency: 6.0
+recent_releases_count: 8
+updated_issues_count: 90
+closed_issues_count: 75
+comment_frequency: 0.1
+dependents_count: 0
+criticality_score: 0.25372
+"
+6462,https://github.com/medipolchain,1,
+6461,https://github.com/AssetMerge/,1,
+6457,https://github.com/SCDEVSTR,1,
+6448,https://github.com/blocktracker-dev/blocktracker,0,"name: blocktracker
+url: https://github.com/blocktracker-dev/blocktracker
+language: JavaScript
+created_since: 5
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03778
+"
+6437,https://github.com/kryptonium-group/beoble-toolkit,0,"name: beoble-toolkit
+url: https://github.com/beoble/beoble-toolkit
+language: TypeScript
+created_since: 6
+updated_since: 1
+contributor_count: 4
+org_count: 1
+commit_frequency: 6.0
+recent_releases_count: 0
+updated_issues_count: 84
+closed_issues_count: 80
+comment_frequency: 1.1
+dependents_count: 0
+criticality_score: 0.23485
+"
+6435,https://github.com/hyperspot,1,
+6429,https://github.com/BitGuilding,1,
+6419,https://github.com/standardcombo/LootMMO,0,"name: LootMMO
+url: https://github.com/standardcombo/LootMMO
+language: Lua
+created_since: 4
+updated_since: 1
+contributor_count: 5
+org_count: 1
+commit_frequency: 3.6
+recent_releases_count: 0
+updated_issues_count: 8
+closed_issues_count: 2
+comment_frequency: 0.0
+dependents_count: 4
+criticality_score: 0.18359
+"
+6417,https://github.com/our3-xyz,1,
+6413,https://github.com/carlosjmelgar,1,
+6411,https://github.com/smartcontractkit/full-blockchain-solidity-course-js/,0,"name: full-blockchain-solidity-course-js
+url: https://github.com/smartcontractkit/full-blockchain-solidity-course-js
+language: None
+created_since: 9
+updated_since: 0
+contributor_count: 23
+org_count: 1
+commit_frequency: 2.1
+recent_releases_count: 0
+updated_issues_count: 81
+closed_issues_count: 61
+comment_frequency: 2.2
+dependents_count: 7
+criticality_score: 0.34313
+"
+6408,https://github.com/Generative-Labs/SwapChat-Chrome-Extension,0,"name: SwapChat-Chrome-Extension
+url: https://github.com/Generative-Labs/SwapChat-Chrome-Extension
+language: JavaScript
+created_since: 10
+updated_since: 2
+contributor_count: 2
+org_count: 0
+commit_frequency: 1.6
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07849
+"
+6391,https://github.com/BitLoanLab,1,
+6390,https://github.com/Panvala/panvala,0,"name: panvala
+url: https://github.com/Panvala/panvala
+language: TypeScript
+created_since: 44
+updated_since: 6
+contributor_count: 8
+org_count: 3
+commit_frequency: 0.3
+recent_releases_count: 0
+updated_issues_count: 5
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 4
+criticality_score: 0.22006
+"
+6362,https://github.com/hhirshland/arcade,0,"name: arcade
+url: https://github.com/hhirshland/arcade
+language: Solidity
+created_since: 4
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.4
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03741
+"
+6358,https://github.com/flashpub,1,
+6347,https://github.com/smolcastle/,1,
+6345,https://github.com/citizendao,1,
+6344,https://github.com/commons-stack/praise,0,"name: praise
+url: https://github.com/commons-stack/praise
+language: TypeScript
+created_since: 13
+updated_since: 0
+contributor_count: 11
+org_count: 1
+commit_frequency: 36.2
+recent_releases_count: 18
+updated_issues_count: 157
+closed_issues_count: 126
+comment_frequency: 0.9
+dependents_count: 0
+criticality_score: 0.37718
+"
+6334,https://github.com/lotuna,1,
+6320,https://github.com/TalentLayer/.github,0,"name: .github
+url: https://github.com/TalentLayer/.github
+language: None
+created_since: 3
+updated_since: 2
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.04051
+"
+6318,https://github.com/centerforCLTs,1,
+6313,https://github.com/OpenKoo,1,
+6310,https://github.com/TogethDAO,1,
+6309,https://github.com/Fairauctionclub,1,
+6308,https://github.com/secur3xyz/contracts,0,"name: contracts
+url: https://github.com/secur3xyz/contracts
+language: Solidity
+created_since: 4
+updated_since: 4
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+6297,https://github.com/Seavoting,1,
+6284,https://github.com/Blockchain-For-Science,1,
+6264,https://github.com/vivalldi25,1,
+6259,https://github.com/olta-art,1,
+6249,https://github.com/Mangoboxlabs,1,
+6245,https://github.com/Antdao,1,
+6244,https://github.com/seanmc9/JokeDaoV2Dev,0,"name: JokeDaoV2Dev
+url: https://github.com/JokeDAO/JokeDaoV2Dev
+language: CSS
+created_since: 8
+updated_since: 0
+contributor_count: 2
+org_count: 1
+commit_frequency: 7.7
+recent_releases_count: 0
+updated_issues_count: 108
+closed_issues_count: 97
+comment_frequency: 1.1
+dependents_count: 2
+criticality_score: 0.27034
+"
+6239,https://github.com/d10r/7energy-contracts,0,"name: 7energy-contracts
+url: https://github.com/d10r/7energy-contracts
+language: JavaScript
+created_since: 6
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 1.0
+dependents_count: 0
+criticality_score: 0.08054
+"
+6232,https://github.com/CherrySafe,1,
+6231,https://github.com/proofofsoulprotocol,1,
+6224,https://github.com/sonorus-network,1,
+6222,https://github.com/Shorumlab/shorum,0,"name: shorum
+url: https://github.com/Shorumlab/shorum
+language: TypeScript
+created_since: 5
+updated_since: 5
+contributor_count: 3
+org_count: 0
+commit_frequency: 1.8
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05583
+"
+6213,https://github.com/WhiteMatrixTech/ChainIDE-Nervos-Plugin,0,"name: ChainIDE-Nervos-Plugin
+url: https://github.com/WhiteMatrixTech/ChainIDE-Nervos-Plugin
+language: TypeScript
+created_since: 11
+updated_since: 11
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06436
+"
+6206,https://github.com/musex-io,1,
+6203,https://github.com/daopanel,1,
+6201,https://github.com/GwamiLabs,1,
+6200,https://github.com/HibiscusDao,1,
+6197,https://github.com/Trusted-Seed/,1,
+6195,https://github.com/ecoWarriors,1,
+6193,https://github.com/Hats-Protocol/hats-protocol/tree/mvp,1,
+6182,https://github.com/OpenSourceEcology,1,
+6180,https://github.com/alrevuelta/eth-metrics,0,"name: eth-metrics
+url: https://github.com/alrevuelta/eth-metrics
+language: Go
+created_since: 11
+updated_since: 2
+contributor_count: 2
+org_count: 0
+commit_frequency: 1.0
+recent_releases_count: 19
+updated_issues_count: 16
+closed_issues_count: 13
+comment_frequency: 0.3
+dependents_count: 0
+criticality_score: 0.17855
+"
+6172,https://github.com/Tingwei-Justin/web3shop-dapp,1,
+6171,https://github.com/creativeplatform,1,
+6169,https://github.com/ShuaJJ/CryptoIn,0,"name: CryptoIn
+url: https://github.com/ShuaJJ/CryptoIn
+language: JavaScript
+created_since: 5
+updated_since: 5
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02605
+"
+6163,https://github.com/OpenMetaDAO,1,
+6162,https://github.com/conquest-eth,1,
+6157,https://github.com/Zarela-dev,1,
+6156,https://github.com/techstationspace/kuoricinidao,0,"name: kuoricinidao
+url: https://github.com/techstationspace/kuoricinidao
+language: HTML
+created_since: 8
+updated_since: 1
+contributor_count: 3
+org_count: 1
+commit_frequency: 1.5
+recent_releases_count: 0
+updated_issues_count: 27
+closed_issues_count: 18
+comment_frequency: 0.2
+dependents_count: 3
+criticality_score: 0.20075
+"
+6152,https://github.com/algorand-naming-service,1,
+6149,https://github.com/owlracle,1,
+6141,https://github.com/ClimeDAO,1,
+6137,https://github.com/Convex-Labs/honestnft-shenanigans,0,"name: honestnft-shenanigans
+url: https://github.com/Convex-Labs/honestnft-shenanigans
+language: Jupyter Notebook
+created_since: 12
+updated_since: 1
+contributor_count: 12
+org_count: 1
+commit_frequency: 3.6
+recent_releases_count: 1
+updated_issues_count: 26
+closed_issues_count: 26
+comment_frequency: 0.2
+dependents_count: 2
+criticality_score: 0.2621
+"
+6128,https://github.com/ethereum/go-ethereum/,0,"name: go-ethereum
+url: https://github.com/ethereum/go-ethereum
+language: Go
+created_since: 107
+updated_since: 0
+contributor_count: 774
+org_count: 7
+commit_frequency: 13.3
+recent_releases_count: 15
+updated_issues_count: 859
+closed_issues_count: 699
+comment_frequency: 1.9
+dependents_count: 0
+criticality_score: 0.63254
+"
+6127,https://github.com/gaiadaomoney,1,
+6123,https://github.com/lzeroxyz/,1,
+6122,https://github.com/regenliving,1,
+6121,https://github.com/v01ddao,1,
+6119,https://github.com/project-themistoklis,1,
+6115,https://github.com/neighborhood-protocol,1,
+6113,https://github.com/DAOU-IO/daou,1,
+6100,https://github.com/womenbuildweb3,1,
+6090,https://github.com/AmazingAng/WTFSolidity,0,"name: WTF-Solidity
+url: https://github.com/AmazingAng/WTF-Solidity
+language: Solidity
+created_since: 7
+updated_since: 0
+contributor_count: 67
+org_count: 4
+commit_frequency: 16.9
+recent_releases_count: 0
+updated_issues_count: 152
+closed_issues_count: 143
+comment_frequency: 0.7
+dependents_count: 0
+criticality_score: 0.38724
+"
+6087,https://github.com/MetaMail/metamail-fe,0,"name: metamail-fe
+url: https://github.com/MetaMail/metamail-fe
+language: TypeScript
+created_since: 9
+updated_since: 0
+contributor_count: 6
+org_count: 0
+commit_frequency: 1.9
+recent_releases_count: 0
+updated_issues_count: 5
+closed_issues_count: 5
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.15312
+"
+6085,https://github.com/ormi-fi,1,
+6077,https://github.com/Stitchia-Network,1,
+6069,https://github.com/swift-libp2p,1,
+6068,https://github.com/sathninduk,1,
+6061,https://github.com/sade-c/Angular-web3-starter,0,"name: Angular-web3-starter
+url: https://github.com/sade-c/Angular-web3-starter
+language: CSS
+created_since: 5
+updated_since: 1
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.053
+"
+6049,https://github.com/scamsniffer,1,
+6047,https://github.com/loansharktech/loanshark,0,"name: loanshark
+url: https://github.com/loansharktech/loanshark
+language: JavaScript
+created_since: 10
+updated_since: 0
+contributor_count: 5
+org_count: 1
+commit_frequency: 2.9
+recent_releases_count: 0
+updated_issues_count: 49
+closed_issues_count: 49
+comment_frequency: 0.1
+dependents_count: 6
+criticality_score: 0.25848
+"
+6045,https://github.com/glorylab,1,
+6044,https://github.com/NiftyConnect,1,
+6037,https://github.com/Khalon-Bridge,1,
+6035,https://github.com/SporosDAO/sweat-token,0,"name: sweat-token
+url: https://github.com/SporosDAO/sweat-token
+language: TypeScript
+created_since: 6
+updated_since: 0
+contributor_count: 10
+org_count: 2
+commit_frequency: 8.6
+recent_releases_count: 0
+updated_issues_count: 84
+closed_issues_count: 64
+comment_frequency: 2.0
+dependents_count: 2
+criticality_score: 0.33222
+"
+6034,https://github.com/ChainSafe/lodestar,0,"name: lodestar
+url: https://github.com/ChainSafe/lodestar
+language: TypeScript
+created_since: 53
+updated_since: 0
+contributor_count: 67
+org_count: 6
+commit_frequency: 13.3
+recent_releases_count: 28
+updated_issues_count: 455
+closed_issues_count: 333
+comment_frequency: 1.3
+dependents_count: 0
+criticality_score: 0.53177
+"
+6027,https://github.com/felixpx/hackmoney-ethglobal,0,"name: miradao
+url: https://github.com/felixpx/miradao
+language: JavaScript
+created_since: 5
+updated_since: 5
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07126
+"
+6020,https://github.com/thor314/pazk,0,"name: pazk
+url: https://github.com/thor314/pazk
+language: Rust
+created_since: 6
+updated_since: 5
+contributor_count: 1
+org_count: 1
+commit_frequency: 1.1
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 1.0
+dependents_count: 0
+criticality_score: 0.10856
+"
+6009,https://github.com/markibanez/goingup-dapp-v1,0,"name: goingup-dapp-v1
+url: https://github.com/markibanez/goingup-dapp-v1
+language: TypeScript
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+6002,https://github.com/m7eio,1,
+5997,https://github.com/A3SProtocol/A3SProtocol-v1,0,"name: A3SProtocol-v1
+url: https://github.com/A3SProtocol/A3SProtocol-v1
+language: Solidity
+created_since: 5
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 1.0
+recent_releases_count: 0
+updated_issues_count: 10
+closed_issues_count: 10
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.08108
+"
+5995,https://github.com/quest3,1,
+5979,https://github.com/Blacksage-beep,1,
+5971,https://github.com/surfDB,1,
+5965,https://github.com/creatordao-project,1,
+5964,https://github.com/merge-dao,1,
+5959,https://github.com/jgresham/nice-node,0,"name: nice-node
+url: https://github.com/jgresham/nice-node
+language: JavaScript
+created_since: 7
+updated_since: 1
+contributor_count: 6
+org_count: 2
+commit_frequency: 2.4
+recent_releases_count: 19
+updated_issues_count: 25
+closed_issues_count: 24
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.2607
+"
+5958,https://github.com/ApeWorX/ape,0,"name: ape
+url: https://github.com/ApeWorX/ape
+language: Python
+created_since: 22
+updated_since: 0
+contributor_count: 27
+org_count: 3
+commit_frequency: 8.9
+recent_releases_count: 42
+updated_issues_count: 281
+closed_issues_count: 198
+comment_frequency: 1.3
+dependents_count: 15
+criticality_score: 0.49543
+"
+5940,https://github.com/buddle-finance,1,
+5939,https://github.com/LunCoSim/lunco-sim,0,"name: lunco-sim
+url: https://github.com/LunCoSim/lunco-sim
+language: GDScript
+created_since: 5
+updated_since: 0
+contributor_count: 6
+org_count: 2
+commit_frequency: 5.5
+recent_releases_count: 8
+updated_issues_count: 2
+closed_issues_count: 2
+comment_frequency: 2.5
+dependents_count: 0
+criticality_score: 0.29103
+"
+5933,https://github.com/akula-bft/akula,0,"name: akula
+url: https://github.com/akula-bft/akula
+language: Rust
+created_since: 22
+updated_since: 0
+contributor_count: 17
+org_count: 2
+commit_frequency: 10.3
+recent_releases_count: 0
+updated_issues_count: 124
+closed_issues_count: 100
+comment_frequency: 1.0
+dependents_count: 0
+criticality_score: 0.34659
+"
+5917,https://github.com/spinamp/,1,
+5911,https://github.com/vintageplayer/highfy-me,0,"name: highfy-me
+url: https://github.com/vintageplayer/highfy-me
+language: JavaScript
+created_since: 5
+updated_since: 5
+contributor_count: 2
+org_count: 2
+commit_frequency: 1.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09768
+"
+5898,https://github.com/luckyr13/wisdom-wizards,0,"name: wisdom-wizards
+url: https://github.com/luckyr13/wisdom-wizards
+language: TypeScript
+created_since: 20
+updated_since: 4
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.4
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07128
+"
+5897,https://github.com/CO2CULT/nouns-monorepo,0,"name: co2cult-monorepo
+url: https://github.com/CO2CULT/co2cult-monorepo
+language: None
+created_since: 17
+updated_since: 6
+contributor_count: 20
+org_count: 3
+commit_frequency: 6.2
+recent_releases_count: 1
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.22128
+"
+5885,https://github.com/internetarchive,1,
+5884,https://github.com/peacefulprogress25/SolarpunkDao,0,"name: SolarpunkDao
+url: https://github.com/peacefulprogress25/SolarpunkDao
+language: Solidity
+created_since: 11
+updated_since: 12
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03149
+"
+5877,https://github.com/karmacoma-eth/smol-evm,0,"name: smol-evm
+url: https://github.com/karmacoma-eth/smol-evm
+language: Python
+created_since: 15
+updated_since: 0
+contributor_count: 11
+org_count: 1
+commit_frequency: 1.8
+recent_releases_count: 0
+updated_issues_count: 14
+closed_issues_count: 14
+comment_frequency: 0.8
+dependents_count: 0
+criticality_score: 0.25055
+"
+5873,https://github.com/epist-xyz,1,
+5872,https://github.com/lakshh07/DeBooki,0,"name: DeBooki
+url: https://github.com/lakshh07/DeBooki
+language: TypeScript
+created_since: 9
+updated_since: 9
+contributor_count: 2
+org_count: 10
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.14962
+"
+5862,https://github.com/jolocom,1,
+5857,https://github.com/crypto-space-map/csm-fe,0,"name: csm-fe
+url: https://github.com/crypto-space-map/csm-fe
+language: TypeScript
+created_since: 12
+updated_since: 5
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 3
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.06684
+"
+5854,https://github.com/WeaverFi,1,
+5819,https://github.com/liso-vault/,1,
+5792,https://github.com/earnifi/essential-eth,0,"name: essential-eth
+url: https://github.com/dawsbot/essential-eth
+language: TypeScript
+created_since: 13
+updated_since: 1
+contributor_count: 6
+org_count: 1
+commit_frequency: 2.2
+recent_releases_count: 17
+updated_issues_count: 20
+closed_issues_count: 9
+comment_frequency: 1.4
+dependents_count: 0
+criticality_score: 0.28097
+"
+5781,https://github.com/zkMaps,1,
+5779,https://github.com/buildship-dev,1,
+5719,https://github.com/syncswap,1,
+5704,https://github.com/,1,
+5699,https://github.com/Synthetixio/synpress,0,"name: synpress
+url: https://github.com/Synthetixio/synpress
+language: JavaScript
+created_since: 23
+updated_since: 0
+contributor_count: 20
+org_count: 6
+commit_frequency: 7.8
+recent_releases_count: 72
+updated_issues_count: 121
+closed_issues_count: 100
+comment_frequency: 1.1
+dependents_count: 95
+criticality_score: 0.53177
+"
+5653,https://github.com/Web3bazaar,1,
+5629,https://github.com/ReadON-SOL,1,
+5620,https://github.com/ethernautdao,1,
+5613,https://github.com/ConsenSysMesh/zk-locale,0,"name: zk-locale
+url: https://github.com/ConsenSysMesh/zk-locale
+language: JavaScript
+created_since: 5
+updated_since: 3
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06621
+"
+5572,https://github.com/seedlist,1,
+5564,https://github.com/BibliothecaForAdventurers,1,
+5553,https://github.com/emojidao,1,
+5535,https://github.com/khiemdt/allchains_xyz,0,"name: allchains_xyz
+url: https://github.com/khiemdt/allchains_xyz
+language: TypeScript
+created_since: 2
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+5520,https://github.com/earthbanc,1,
+5515,https://github.com/plebbit/plebbit-js,0,"name: plebbit-js
+url: https://github.com/plebbit/plebbit-js
+language: TypeScript
+created_since: 9
+updated_since: 0
+contributor_count: 2
+org_count: 0
+commit_frequency: 22.5
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 91
+criticality_score: 0.22167
+"
+5510,https://github.com/DiogoJorg3/csff/blob/main/README.md,1,
+5477,https://github.com/redstone-finance/redstone-node/blob/main/docs/COMPILED_ORACLE_DOCS.md,1,
+5468,https://github.com/cnrmck/digitalgaia/blob/main/README.md,1,
+5463,https://github.com/algofund,1,
+5427,https://github.com/PizzaDAO,1,
+5422,https://github.com/exothium,1,
+5415,https://github.com/poignart,1,
+5414,https://github.com/Zimtente/ens-collections,0,"name: ens-collections
+url: https://github.com/Zimtente/ens-collections
+language: JavaScript
+created_since: 5
+updated_since: 1
+contributor_count: 49
+org_count: 1
+commit_frequency: 7.6
+recent_releases_count: 0
+updated_issues_count: 640
+closed_issues_count: 487
+comment_frequency: 1.0
+dependents_count: 30
+criticality_score: 0.38404
+"
+5410,https://github.com/rinickulous/metabolic-mainframe,0,"name: metabolic-mainframe
+url: https://github.com/rinickulous/metabolic-mainframe
+language: None
+created_since: 7
+updated_since: 7
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02077
+"
+5397,https://github.com/jp4g/battlezips,0,"name: BattleZips
+url: https://github.com/BattleZips/BattleZips
+language: JavaScript
+created_since: 38
+updated_since: 0
+contributor_count: 3
+org_count: 1
+commit_frequency: 1.2
+recent_releases_count: 0
+updated_issues_count: 2
+closed_issues_count: 1
+comment_frequency: 0.5
+dependents_count: 0
+criticality_score: 0.20518
+"
+5386,https://github.com/orgs/zerolabsgreen/,1,
+5374,https://github.com/junoware/will3-production,1,
+5367,https://github.com/saintsal/daoistry,0,"name: daoistry
+url: https://github.com/saintsal/daoistry
+language: HTML
+created_since: 10
+updated_since: 7
+contributor_count: 1
+org_count: 1
+commit_frequency: 1.7
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.07788
+"
+5364,https://github.com/saintsal/dankrank-contracts,1,
+5359,https://github.com/cvoxelprotocol/cvoxel,1,
+5356,https://github.com/MEGApixel23,1,
+5351,https://github.com/Sin7Y,1,
+5334,https://github.com/atem-green,1,
+5332,https://github.com/caminantecielo/ECORISE-SOLANA,1,
+5312,https://github.com/serenae-fansubs,1,
+5310,https://github.com/therecapofthepreviousdayonstarknet,1,
+5288,https://github.com/tallyho,1,
+5283,https://github.com/entropyfi,1,
+5257,https://github.com/Eve-Wealth,1,
+5245,https://github.com/ValesIndex,1,
+5234,https://github.com/annavladi/World-of-Connections-Ukraine-Aid,1,
+5216,https://github.com/Perpetual-Forest,1,
+5215,https://github.com/lighthouse-web3/files-dapp,1,
+5211,https://github.com/closerearth/app.closer,1,
+5198,https://github.com/wibecarbon,1,
+5189,https://github.com/Examp-LLC/ethrank,1,
+5158,https://github.com/makechangepossible,1,
+5155,https://github.com/Gateway-DAO,1,
+5133,https://github.com/vb7401/zk-reddit-circuits,1,
+5129,https://github.com/jellyfish-dao,1,
+5125,https://github.com/GenesisNews/Genesis,1,
+5121,https://github.com/0xPARC/zkrepl,1,
+5117,https://github.com/gskril/gweifundme,1,
+5105,https://github.com/desci-eth/,1,
+5091,https://github.com/talentDAO,1,
+5090,https://github.com/Urbanika,1,
+5089,https://github.com/nxt3d/name-wrapper/tree/upgrade,1,
+5079,https://github.com/shrinehouse,1,
+5070,https://github.com/1Hive/gardens,1,
+5066,https://github.com/LearnWeb3DAO,1,
+5062,https://github.com/JeanneBloch/DEB-A-Dynamic-Energy-Budget-for-Art-Creation-,1,
+5060,https://github.com/cure-dao,1,
+5051,https://github.com/DeFrag-Finance/,1,
+5048,https://github.com/1Hive/quests,1,
+5047,https://github.com/0xPARC/learn.0xparc.org,1,
+5042,https://github.com/opensourcecathealth/cat_longevity_diagnostics,1,
+5041,https://github.com/marlonbarrios,1,
+5040,https://github.com/landscapeinteractions,1,
+5033,https://github.com/Hylozoic,1,
+5013,https://github.com/otter-cash,1,
+5007,https://github.com/lensterxyz/lenster,1,
+4975,https://github.com/dcbuild3r/devpill.me,1,
+4966,https://github.com/holic/ens-ideas,1,
+4953,https://github.com/wgmi-community,1,
+4944,https://github.com/kumodao,1,
+4943,https://github.com/MyceliaStargaze/egmi,1,
+4942,https://github.com/viaMover,1,
+4934,https://github.com/0xPARC/circom-ecdsa,1,
+4927,https://github.com/Unchained-Music/UnchainedMusic-ReactApp,1,
+4926,https://github.com/lexDAO,1,
+4923,https://github.com/earthist,1,
+4914,https://github.com/PovedaAqui/,1,
+4896,https://github.com/PipelineMail/OfficialWebsite,1,
+4885,https://github.com/knome7337/refibysouth,1,
+4878,https://github.com/SCINET-INC,1,
+4875,https://github.com/dfdao,1,
+4867,https://github.com/fysp11/gitcoin-cerrado-waters,1,
+4866,https://github.com/ditto-lab,1,
+4863,https://github.com/ReeFiDAO,1,
+4858,https://github.com/heypran/zk-block,1,
+4851,https://github.com/shambadynamic,1,
+4847,https://github.com/0xZKML/zk-mnist,1,
+4846,https://github.com/fileverse,1,
+4840,https://github.com/bicowg/bicowg/tree/main/Validator-and-protocol-carbon-footprint-methods-and-analysis,1,
+4836,https://github.com/D3Cngo/,1,
+4832,https://github.com/statefulworks/protocol-guild,0,"name: docs
+url: https://github.com/protocolguild/docs
+language: None
+created_since: 11
+updated_since: 1
+contributor_count: 8
+org_count: 1
+commit_frequency: 5.9
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.17634
+"
+4830,https://github.com/punk-domains,1,
+4825,https://github.com/iden3/circom,0,"name: circom
+url: https://github.com/iden3/circom
+language: Rust
+created_since: 12
+updated_since: 0
+contributor_count: 23
+org_count: 5
+commit_frequency: 3.9
+recent_releases_count: 10
+updated_issues_count: 46
+closed_issues_count: 36
+comment_frequency: 0.8
+dependents_count: 42
+criticality_score: 0.45239
+"
+4817,https://github.com/Changeblock,1,
+4816,https://github.com/filswan,1,
+4812,https://github.com/gskril/eth-leaderboard/,0,"name: eth-leaderboard
+url: https://github.com/gskril/eth-leaderboard
+language: JavaScript
+created_since: 11
+updated_since: 1
+contributor_count: 4
+org_count: 1
+commit_frequency: 2.9
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 3
+criticality_score: 0.17046
+"
+4811,https://github.com/lexDAO,1,
+4795,https://github.com/migalabs,1,
+4794,https://github.com/delgadito,1,
+4791,https://github.com/nativesintech,1,
+4790,https://github.com/subbi-fi,1,
+4786,https://github.com/senkenio,1,
+4768,https://github.com/lk2684753/sd-cloud,0,"name: sd-cloud
+url: https://github.com/lk2684753/sd-cloud
+language: JavaScript
+created_since: 9
+updated_since: 6
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.4
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03363
+"
+4760,https://github.com/eth-limo/,1,
+4740,https://github.com/overview-solutions/village-grid,0,"name: village-grid
+url: https://github.com/overview-solutions/village-grid
+language: None
+created_since: 9
+updated_since: 8
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05885
+"
+4739,https://github.com/franklynwang/EcneProject,0,"name: EcneProject
+url: https://github.com/franklynwang/EcneProject
+language: Julia
+created_since: 8
+updated_since: 5
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.05199
+"
+4722,https://github.com/LumeWeb,1,
+4708,https://github.com/esteroids/,1,
+4698,https://github.com/ResearchHub,1,
+4687,https://github.com/tripluca/,1,
+4683,https://github.com/formless-eng/oss/blob/main/share/whitepaper/share-whitepaper.md,1,
+4680,https://github.com/aframevr/aframe,0,"name: aframe
+url: https://github.com/aframevr/aframe
+language: JavaScript
+created_since: 87
+updated_since: 0
+contributor_count: 399
+org_count: 8
+commit_frequency: 2.8
+recent_releases_count: 1
+updated_issues_count: 94
+closed_issues_count: 48
+comment_frequency: 3.1
+dependents_count: 18232
+criticality_score: 0.71237
+"
+4665,https://github.com/viaprotocol,1,
+4655,https://github.com/DeFiEye/BridgeEye,0,"name: BridgeEye
+url: https://github.com/DeFiEye/BridgeEye
+language: Python
+created_since: 9
+updated_since: 0
+contributor_count: 4
+org_count: 1
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 7
+closed_issues_count: 5
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.16859
+"
+4628,https://github.com/vigilance91,1,
+4597,https://github.com/BEON-Tech-Studio/poi-pool,0,"name: poi-pool
+url: https://github.com/BEON-Tech-Studio/poi-pool
+language: Solidity
+created_since: 10
+updated_since: 6
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.7
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 2
+criticality_score: 0.07017
+"
+4592,https://github.com/ZeroDAO,1,
+4573,https://github.com/datalatte-ai,1,
+4551,https://github.com/WhiteHatDAO,1,
+4546,https://github.com/aaaaplus/lootdungeon,1,
+4511,https://github.com/Governor-DAO,1,
+4503,https://github.com/blossomlabs/osmotic-funding,0,"name: osmotic-funding
+url: https://github.com/BlossomLabs/osmotic-funding
+language: CSS
+created_since: 13
+updated_since: 12
+contributor_count: 3
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.04011
+"
+4500,https://github.com/NeptuneChain-Inc,1,
+4499,https://github.com/Poapathon/,1,
+4493,https://github.com/tmm/wagmi,0,"name: wagmi
+url: https://github.com/wagmi-dev/wagmi
+language: TypeScript
+created_since: 11
+updated_since: 0
+contributor_count: 81
+org_count: 6
+commit_frequency: 9.8
+recent_releases_count: 204
+updated_issues_count: 189
+closed_issues_count: 183
+comment_frequency: 2.5
+dependents_count: 34
+criticality_score: 0.56667
+"
+4480,https://github.com/3D-Robot/3D-Robot,0,"name: 3D-Robot
+url: https://github.com/3D-Robot/3D-Robot
+language: OpenSCAD
+created_since: 15
+updated_since: 15
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+4444,https://github.com/bluealloy/revm,0,"name: revm
+url: https://github.com/bluealloy/revm
+language: Rust
+created_since: 13
+updated_since: 0
+contributor_count: 17
+org_count: 5
+commit_frequency: 4.8
+recent_releases_count: 8
+updated_issues_count: 109
+closed_issues_count: 101
+comment_frequency: 0.9
+dependents_count: 3
+criticality_score: 0.41814
+"
+4417,https://github.com/defi-wonderland/smock,0,"name: smock
+url: https://github.com/defi-wonderland/smock
+language: TypeScript
+created_since: 15
+updated_since: 1
+contributor_count: 9
+org_count: 3
+commit_frequency: 0.4
+recent_releases_count: 4
+updated_issues_count: 26
+closed_issues_count: 16
+comment_frequency: 1.2
+dependents_count: 15
+criticality_score: 0.34259
+"
+4385,https://github.com/laktek/uniswap-v3-pools,1,
+4382,https://github.com/yeo,1,
+4349,https://github.com/JoannaPicetti/,1,
+4331,https://github.com/denis-skripnik,1,
+4326,https://github.com/40AcresDAO,1,
+4310,https://github.com/sciencefund,1,
+4299,https://github.com/cyberconnecthq,1,
+4287,https://github.com/guild-w,1,
+4280,https://github.com/snowtigersoft/darksea-market,0,"name: darksea-market
+url: https://github.com/snowtigersoft/darksea-market
+language: TypeScript
+created_since: 14
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06025
+"
+4271,https://github.com/deryakarl/Quantum-Secure-Crypto-Wallet/blob/main/README.md,1,
+4268,https://github.com/jaazinn/zkr-app-directory,0,"name: zkr-app-directory
+url: https://github.com/zkrollups/zkr-app-directory
+language: JavaScript
+created_since: 11
+updated_since: 2
+contributor_count: 6
+org_count: 4
+commit_frequency: 18.2
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 2.0
+dependents_count: 9
+criticality_score: 0.30974
+"
+4263,https://github.com/dfarchon,1,
+4257,https://github.com/Reputable-Health,1,
+4249,https://github.com/PozzlePlanet/,1,
+4240,https://github.com/Moonjelly-DAO/Gitcoin-Grant-Climate-Change,0,"name: Gitcoin-Grant-Climate-Change
+url: https://github.com/Moonjelly-DAO/Gitcoin-Grant-Climate-Change
+language: None
+created_since: 10
+updated_since: 10
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05316
+"
+4213,https://github.com/phated,1,
+4203,https://github.com/chunza2542/uniswapv3-calculator,0,"name: uniswap.fish
+url: https://github.com/chunza2542/uniswap.fish
+language: TypeScript
+created_since: 15
+updated_since: 0
+contributor_count: 2
+org_count: 0
+commit_frequency: 1.7
+recent_releases_count: 0
+updated_issues_count: 4
+closed_issues_count: 4
+comment_frequency: 1.8
+dependents_count: 0
+criticality_score: 0.1812
+"
+4201,https://github.com/spect-ai/app.v2,1,
+4200,https://github.com/EndangeredTokens,1,
+4186,https://github.com/Kredeum/kredeum,0,"name: kredeum
+url: https://github.com/Kredeum/kredeum
+language: TypeScript
+created_since: 20
+updated_since: 0
+contributor_count: 5
+org_count: 2
+commit_frequency: 8.6
+recent_releases_count: 1
+updated_issues_count: 78
+closed_issues_count: 47
+comment_frequency: 0.6
+dependents_count: 0
+criticality_score: 0.30583
+"
+4170,https://github.com/0xNuggan,1,
+4167,https://github.com/cherubimlabs,1,
+4143,https://github.com/wslyvh,1,
+4130,https://github.com/StrawberryChocolateFudge/Ricardian-Fabric,0,"name: Ricardian-Fabric
+url: https://github.com/StrawberryChocolateFudge/Ricardian-Fabric
+language: TypeScript
+created_since: 15
+updated_since: 7
+contributor_count: 1
+org_count: 0
+commit_frequency: 17.8
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.08611
+"
+4127,https://github.com/CannabisGenomeDAO/,1,
+4118,https://github.com/djs0406,1,
+4097,https://github.com/ufkhan97/braid,0,"name: braid
+url: https://github.com/ufkhan97/braid
+language: JavaScript
+created_since: 11
+updated_since: 7
+contributor_count: 5
+org_count: 0
+commit_frequency: 0.4
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06517
+"
+4091,https://github.com/mvteclat/SolidarityCard,0,"name: SolidarityCard
+url: https://github.com/mvteclat/SolidarityCard
+language: None
+created_since: 32
+updated_since: 1
+contributor_count: 2
+org_count: 2
+commit_frequency: 1.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 8
+criticality_score: 0.2066
+"
+4087,https://github.com/show-karma,1,
+4073,https://github.com/allforclimate,1,
+4069,https://github.com/AlgoveraAI,1,
+4068,https://github.com/nil-dao,1,
+4063,https://github.com/amaredeus/DEGEN,0,"name: DEGEN
+url: https://github.com/amaredeus/DEGEN
+language: TypeScript
+created_since: 17
+updated_since: 2
+contributor_count: 14
+org_count: 3
+commit_frequency: 7.4
+recent_releases_count: 25
+updated_issues_count: 2
+closed_issues_count: 2
+comment_frequency: 0.5
+dependents_count: 0
+criticality_score: 0.31355
+"
+4056,https://github.com/buildingweb4/Abundance-Protocol/,0,"name: Abundance-Protocol
+url: https://github.com/buildingweb4/Abundance-Protocol
+language: JavaScript
+created_since: 7
+updated_since: 2
+contributor_count: 3
+org_count: 2
+commit_frequency: 1.2
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 1.0
+dependents_count: 0
+criticality_score: 0.16867
+"
+4053,https://github.com/Glosseta/glosseta,0,"name: glosseta
+url: https://github.com/Glosseta/glosseta
+language: TypeScript
+created_since: 12
+updated_since: 1
+contributor_count: 8
+org_count: 1
+commit_frequency: 3.8
+recent_releases_count: 8
+updated_issues_count: 2
+closed_issues_count: 2
+comment_frequency: 0.5
+dependents_count: 0
+criticality_score: 0.23893
+"
+4038,https://github.com/dethcrypto,1,
+4027,https://github.com/tomwade,1,
+4024,https://github.com/climateXcrypto,1,
+4019,https://github.com/RainbowDAO,1,
+4017,https://github.com/SwellNetwork,1,
+4007,https://github.com/BooneTB,1,
+4006,https://github.com/TerexitariusStomp/Avano,0,"name: Avano
+url: https://github.com/TerexitariusStomp/Avano
+language: None
+created_since: 11
+updated_since: 5
+contributor_count: 2
+org_count: 1
+commit_frequency: 1.6
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09763
+"
+4000,https://github.com/SeaworthyDaniel,1,
+3987,https://github.com/chnejohnson/vue-dapp,0,"name: vue-dapp
+url: https://github.com/chnejohnson/vue-dapp
+language: TypeScript
+created_since: 14
+updated_since: 2
+contributor_count: 6
+org_count: 2
+commit_frequency: 1.5
+recent_releases_count: 13
+updated_issues_count: 28
+closed_issues_count: 20
+comment_frequency: 2.5
+dependents_count: 0
+criticality_score: 0.30728
+"
+3981,https://github.com/stakenews,1,
+3974,https://github.com/EFForg,1,
+3951,https://github.com/CommonsBuild/Gravity,0,"name: Gravity
+url: https://github.com/CommonsBuild/Gravity
+language: None
+created_since: 13
+updated_since: 9
+contributor_count: 3
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 6
+closed_issues_count: 6
+comment_frequency: 0.2
+dependents_count: 0
+criticality_score: 0.11517
+"
+3920,https://github.com/metublockchain,1,
+3915,https://github.com/sepandhaghighi/samila,0,"name: samila
+url: https://github.com/sepandhaghighi/samila
+language: Python
+created_since: 13
+updated_since: 1
+contributor_count: 6
+org_count: 4
+commit_frequency: 2.4
+recent_releases_count: 7
+updated_issues_count: 20
+closed_issues_count: 13
+comment_frequency: 0.6
+dependents_count: 6
+criticality_score: 0.3325
+"
+3857,https://github.com/l2beat,1,
+3810,https://github.com/khaaliDimaag/babelsphere,1,
+3771,https://github.com/Gravity-Studio-Digital-Wear,1,
+3760,https://github.com/Whonix,1,
+3753,https://github.com/yubiai/marketplace,0,"name: marketplace
+url: https://github.com/yubiai/marketplace
+language: JavaScript
+created_since: 16
+updated_since: 7
+contributor_count: 8
+org_count: 3
+commit_frequency: 3.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 50
+criticality_score: 0.24131
+"
+3694,https://github.com/ParalelniPolis,1,
+3670,https://github.com/jbaicoianu/janusweb,0,"name: janusweb
+url: https://github.com/jbaicoianu/janusweb
+language: JavaScript
+created_since: 82
+updated_since: 5
+contributor_count: 10
+org_count: 3
+commit_frequency: 3.9
+recent_releases_count: 21
+updated_issues_count: 4
+closed_issues_count: 0
+comment_frequency: 1.2
+dependents_count: 54
+criticality_score: 0.39736
+"
+3663,https://github.com/kushagra27/samudai,0,"name: samudai
+url: https://github.com/kushagra27/samudai
+language: JavaScript
+created_since: 13
+updated_since: 13
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05316
+"
+3627,https://github.com/Startdapps/Freeens-dapp-front.git,1,
+3616,https://github.com/defiyeld-app/,1,
+3613,https://github.com/apoorvlathey/impersonator,0,"name: impersonator
+url: https://github.com/apoorvlathey/impersonator
+language: TypeScript
+created_since: 14
+updated_since: 0
+contributor_count: 4
+org_count: 1
+commit_frequency: 0.5
+recent_releases_count: 0
+updated_issues_count: 3
+closed_issues_count: 2
+comment_frequency: 1.3
+dependents_count: 0
+criticality_score: 0.20431
+"
+3609,https://github.com/okannako,1,
+3600,https://github.com/unicast-project,1,
+3591,https://github.com/DefiLlama,1,
+3578,https://github.com/gweicz,1,
+3576,https://github.com/Uv3Framework/,1,
+3563,https://github.com/Utopia42-club,1,
+3535,https://github.com/BanklessDAO/bankless-academy/,0,"name: bankless-academy
+url: https://github.com/BanklessDAO/bankless-academy
+language: TypeScript
+created_since: 19
+updated_since: 0
+contributor_count: 17
+org_count: 2
+commit_frequency: 14.1
+recent_releases_count: 0
+updated_issues_count: 4
+closed_issues_count: 4
+comment_frequency: 1.2
+dependents_count: 3
+criticality_score: 0.33401
+"
+3531,https://github.com/ownership-labs,1,
+3525,https://github.com/0xflash,1,
+3522,https://github.com/KrebitDAO,1,
+3511,https://github.com/chunza2542/ethtalk.app,0,"name: ethtalk.app
+url: https://github.com/chunza2542/ethtalk.app
+language: JavaScript
+created_since: 14
+updated_since: 5
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.05593
+"
+3510,https://github.com/defiwrapper/defiwrapper,0,"name: defiwrapper
+url: https://github.com/defiwrapper/defiwrapper
+language: TypeScript
+created_since: 14
+updated_since: 1
+contributor_count: 8
+org_count: 2
+commit_frequency: 7.0
+recent_releases_count: 4
+updated_issues_count: 69
+closed_issues_count: 68
+comment_frequency: 0.1
+dependents_count: 0
+criticality_score: 0.29079
+"
+3509,https://github.com/freedomofpress,1,
+3502,https://github.com/ethdaily,1,
+3497,https://github.com/fracton-ventures,1,
+3491,https://github.com/CriptoSpanglish,1,
+3475,https://github.com/NectarProtocol,1,
+3457,https://github.com/stake-house/eth-wizard,0,"name: eth-wizard
+url: https://github.com/stake-house/eth-wizard
+language: Python
+created_since: 20
+updated_since: 0
+contributor_count: 4
+org_count: 1
+commit_frequency: 3.4
+recent_releases_count: 10
+updated_issues_count: 32
+closed_issues_count: 25
+comment_frequency: 0.9
+dependents_count: 5
+criticality_score: 0.32719
+"
+3443,https://github.com/bainetwork,1,
+3425,https://github.com/t3rmdotdev,1,
+3414,https://github.com/Dapp-Learning-DAO/Dapp-Learning,0,"name: Dapp-Learning
+url: https://github.com/Dapp-Learning-DAO/Dapp-Learning
+language: Solidity
+created_since: 18
+updated_since: 0
+contributor_count: 158
+org_count: 5
+commit_frequency: 19.9
+recent_releases_count: 0
+updated_issues_count: 51
+closed_issues_count: 49
+comment_frequency: 0.5
+dependents_count: 16
+criticality_score: 0.47424
+"
+3400,https://github.com/NFTLibrary,1,
+3389,https://github.com/NFT-PriceFloor/,1,
+3386,https://github.com/catalandao,1,
+3378,https://github.com/niveshsaharan,1,
+3368,https://github.com/openorg-gg/ethsecurity,0,"name: ethsecurity
+url: https://github.com/OpenOrg-gg/ethsecurity
+language: HTML
+created_since: 1
+updated_since: 1
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.8
+recent_releases_count: 0
+updated_issues_count: 2
+closed_issues_count: 1
+comment_frequency: 0.5
+dependents_count: 0
+criticality_score: 0.06994
+"
+3364,https://github.com/blockscout,1,
+3356,https://github.com/DAOrayaki/DAOrayaki-core,0,"name: DAOrayaki-core
+url: https://github.com/DAOrayaki/DAOrayaki-core
+language: None
+created_since: 14
+updated_since: 11
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03582
+"
+3335,https://github.com/Ruby-Protocol,1,
+3329,https://github.com/Pabsysop,1,
+3278,https://github.com/MatrixETF,1,
+3274,https://github.com/sprintcheckout/sprintcheckout_site,0,"name: sprintcheckout_site
+url: https://github.com/sprintcheckout/sprintcheckout_site
+language: CSS
+created_since: 15
+updated_since: 13
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02242
+"
+3224,https://github.com/wmitsuda/otterscan,0,"name: otterscan
+url: https://github.com/wmitsuda/otterscan
+language: TypeScript
+created_since: 16
+updated_since: 1
+contributor_count: 7
+org_count: 1
+commit_frequency: 11.0
+recent_releases_count: 10
+updated_issues_count: 103
+closed_issues_count: 89
+comment_frequency: 0.9
+dependents_count: 2
+criticality_score: 0.33915
+"
+3169,https://github.com/cyberacademydev,1,
+3150,https://github.com/OffcierCia/DeFi-Developer-Road-Map,0,"name: DeFi-Developer-Road-Map
+url: https://github.com/OffcierCia/DeFi-Developer-Road-Map
+language: None
+created_since: 16
+updated_since: 0
+contributor_count: 34
+org_count: 9
+commit_frequency: 1.5
+recent_releases_count: 0
+updated_issues_count: 6
+closed_issues_count: 5
+comment_frequency: 0.7
+dependents_count: 0
+criticality_score: 0.34462
+"
+3133,https://github.com/lifinance,1,
+3116,https://github.com/ThePlatformPublishing,1,
+3089,https://github.com/Sophons-ETH/dona,0,"name: dona
+url: https://github.com/Sophons-ETH/dona
+language: JavaScript
+created_since: 18
+updated_since: 14
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.02495
+"
+3075,https://github.com/wally000,1,
+3062,https://github.com/atlantis-world-core,1,
+3023,https://github.com/Adek2008,1,
+3004,https://github.com/austintgriffith/scaffold-eth/tree/moonshot-collective,1,
+2986,https://github.com/StartFi,1,
+2984,https://github.com/cavenaghiulises,1,
+2983,https://github.com/mariorz,1,
+2979,https://github.com/Lighthouse-Web3,1,
+2974,https://github.com/ethereum-lists,1,
+2959,https://github.com/JovianNetwork,1,
+2952,https://github.com/aggadom,1,
+2924,https://github.com/blockchainforclimate/bitmo,1,
+2918,https://github.com/Moloch-Mystics/Baal,0,"name: Baal
+url: https://github.com/Moloch-Mystics/Baal
+language: TypeScript
+created_since: 20
+updated_since: 1
+contributor_count: 16
+org_count: 4
+commit_frequency: 4.7
+recent_releases_count: 1
+updated_issues_count: 19
+closed_issues_count: 18
+comment_frequency: 0.6
+dependents_count: 6
+criticality_score: 0.35278
+"
+2871,https://github.com/martriay/flashbots-explorer,0,"name: flashbots-explorer
+url: https://github.com/martriay/flashbots-explorer
+language: TypeScript
+created_since: 18
+updated_since: 1
+contributor_count: 7
+org_count: 2
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.1682
+"
+2851,https://github.com/scaffold-eth/scaffold-eth,0,"name: scaffold-eth
+url: https://github.com/scaffold-eth/scaffold-eth
+language: CSS
+created_since: 30
+updated_since: 0
+contributor_count: 95
+org_count: 3
+commit_frequency: 4.5
+recent_releases_count: 0
+updated_issues_count: 110
+closed_issues_count: 78
+comment_frequency: 0.9
+dependents_count: 4354
+criticality_score: 0.54756
+"
+2841,https://github.com/ZunamiLab/ZunamiProtocol,0,"name: ZunamiProtocol
+url: https://github.com/ZunamiProtocol/ZunamiProtocol
+language: TypeScript
+created_since: 19
+updated_since: 1
+contributor_count: 11
+org_count: 1
+commit_frequency: 5.2
+recent_releases_count: 8
+updated_issues_count: 9
+closed_issues_count: 9
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.26123
+"
+2836,https://github.com/DIGITALAX,1,
+2823,https://github.com/cheerbotme,1,
+2805,https://github.com/torproject/,1,
+2785,https://github.com/WeekinEthNews,1,
+2783,https://github.com/Dystopia-Labs,1,
+2775,https://github.com/DeAccountSystems/das_account_indexer,0,"name: das_account_indexer
+url: https://github.com/dotbitHQ/das_account_indexer
+language: C
+created_since: 19
+updated_since: 10
+contributor_count: 3
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.08697
+"
+2767,https://github.com/Orange-Wallet/OrangeWallet-core,1,
+2754,https://github.com/Mintbot-on-Polygon,1,
+2736,https://github.com/migalabs/armiarma,0,"name: armiarma
+url: https://github.com/migalabs/armiarma
+language: Go
+created_since: 22
+updated_since: 1
+contributor_count: 7
+org_count: 2
+commit_frequency: 4.1
+recent_releases_count: 2
+updated_issues_count: 8
+closed_issues_count: 5
+comment_frequency: 1.0
+dependents_count: 0
+criticality_score: 0.27557
+"
+2688,https://github.com/lucadgtrip,1,
+2687,https://github.com/Mettodo/NIA,0,"name: NIA
+url: https://github.com/Mettodo/NIA
+language: None
+created_since: 16
+updated_since: 2
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.06811
+"
+2631,https://github.com/uniswap-python,1,
+2599,https://github.com/opscientia,1,
+2594,https://github.com/fightforthefuture,1,
+2523,https://github.com/PharoACM,1,
+2479,https://github.com/SolidarityDeFi/,1,
+2445,https://github.com/lg565245594,1,
+2414,https://github.com/994eth,1,
+2400,https://github.com/FractalVisionz/FractalVisions,1,
+2357,https://github.com/TrueFiEng/usedapp,0,"name: useDApp
+url: https://github.com/TrueFiEng/useDApp
+language: TypeScript
+created_since: 22
+updated_since: 0
+contributor_count: 94
+org_count: 5
+commit_frequency: 7.7
+recent_releases_count: 111
+updated_issues_count: 153
+closed_issues_count: 117
+comment_frequency: 3.1
+dependents_count: 2
+criticality_score: 0.53359
+"
+2323,https://github.com/darkforest-eth,1,
+2281,https://github.com/vasa-develop/cross-asset-swap,1,
+2279,https://github.com/pooltogether,1,
+2271,https://github.com/kotalco,1,
+2268,https://github.com/jpycoin,1,
+2265,https://github.com/DeFiGeek-Community,1,
+2239,https://github.com/InsideTheSim/RatioGang.com,0,"name: RatioGang.com
+url: https://github.com/InsideTheSim/RatioGang.com
+language: Vue
+created_since: 20
+updated_since: 2
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 10
+closed_issues_count: 3
+comment_frequency: 1.0
+dependents_count: 2
+criticality_score: 0.15644
+"
+2235,https://github.com/SimpleFi-finance,1,
+2229,https://github.com/DePayFi,1,
+2212,https://github.com/yermoo-DAO,1,
+2200,https://github.com/LaurieDelmer,1,
+2183,https://github.com/coinvise,1,
+2166,https://github.com/safient,1,
+2165,https://github.com/whsieh2,1,
+2154,https://github.com/Giveth/giveth-dapp,0,"name: giveth-dapp
+url: https://github.com/Giveth/giveth-dapp
+language: JavaScript
+created_since: 63
+updated_since: 6
+contributor_count: 55
+org_count: 5
+commit_frequency: 0.5
+recent_releases_count: 2
+updated_issues_count: 5
+closed_issues_count: 0
+comment_frequency: 0.6
+dependents_count: 418
+criticality_score: 0.42049
+"
+2150,https://github.com/pepem00n,1,
+2148,https://github.com/eth2353/eth2.tax,0,"name: eth2.tax
+url: https://github.com/eth2353/eth2.tax
+language: JavaScript
+created_since: 20
+updated_since: 5
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.1
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 1
+comment_frequency: 2.0
+dependents_count: 0
+criticality_score: 0.10769
+"
+2142,https://github.com/ethblockart,1,
+2141,https://github.com/statefulworks,1,
+2121,https://github.com/Dynamiculture,1,
+2112,https://github.com/stake-house/wagyu,0,"name: wagyu-installer
+url: https://github.com/stake-house/wagyu-installer
+language: TypeScript
+created_since: 21
+updated_since: 4
+contributor_count: 11
+org_count: 2
+commit_frequency: 0.7
+recent_releases_count: 1
+updated_issues_count: 2
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.18789
+"
+2100,https://github.com/NatyShi,1,
+2099,https://github.com/Coure-Coin,1,
+2067,https://github.com/Peoples-Cooperative,1,
+2035,https://github.com/EthereumInsurance,1,
+2010,https://github.com/nifty-taxi,1,
+1996,https://github.com/sammdec/nfte,0,"name: nfte
+url: https://github.com/contextwtf/nfte
+language: JavaScript
+created_since: 21
+updated_since: 18
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 8
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.10717
+"
+1988,https://github.com/mark3labs/louper-v2,0,"name: louper-v2
+url: https://github.com/mark3labs/louper-v2
+language: Svelte
+created_since: 11
+updated_since: 0
+contributor_count: 5
+org_count: 2
+commit_frequency: 2.7
+recent_releases_count: 0
+updated_issues_count: 34
+closed_issues_count: 31
+comment_frequency: 1.0
+dependents_count: 3
+criticality_score: 0.28939
+"
+1970,https://github.com/itublockchain,1,
+1929,https://github.com/gumshed/glr,0,"name: glr
+url: https://github.com/gumshed/glr
+language: JavaScript
+created_since: 26
+updated_since: 16
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 6
+criticality_score: 0.0994
+"
+1923,https://github.com/dorukismen,1,
+1857,https://github.com/CoinTool-App,1,
+1855,https://github.com/stereum-dev,1,
+1826,https://github.com/AlphaWallet/DIPs/blob/DIP6-final-update/DIPs/DIP-6.md,1,
+1809,https://github.com/vfat-tools/vfat-tools,0,"name: vfat-tools
+url: https://github.com/vfat-tools/vfat-tools
+language: JavaScript
+created_since: 25
+updated_since: 0
+contributor_count: 628
+org_count: 7
+commit_frequency: 23.1
+recent_releases_count: 0
+updated_issues_count: 25
+closed_issues_count: 25
+comment_frequency: 0.3
+dependents_count: 187
+criticality_score: 0.56419
+"
+1805,https://github.com/pepemon-dao,1,
+1802,https://github.com/ArabsInBlockchain/arabs-in-blockchain-app,0,"name: arabs-in-blockchain-app
+url: https://github.com/ArabsInBlockchain/arabs-in-blockchain-app
+language: JavaScript
+created_since: 25
+updated_since: 22
+contributor_count: 2
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.03336
+"
+1776,https://github.com/valist-io/valist,0,"name: valist
+url: https://github.com/valist-io/valist
+language: Makefile
+created_since: 28
+updated_since: 4
+contributor_count: 2
+org_count: 1
+commit_frequency: 0.3
+recent_releases_count: 4
+updated_issues_count: 3
+closed_issues_count: 3
+comment_frequency: 0.0
+dependents_count: 146
+criticality_score: 0.2493
+"
+1773,https://github.com/JTraversa/DefiHedge-Protocol,0,"name: DefiHedge-Protocol
+url: https://github.com/JTraversa/DefiHedge-Protocol
+language: Solidity
+created_since: 31
+updated_since: 18
+contributor_count: 2
+org_count: 2
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09704
+"
+1761,https://github.com/WomenOfCryptoArt,1,
+1760,https://github.com/CreatorCoinTools,1,
+1744,https://github.com/vbstreetz/zkpay,0,"name: zkpay
+url: https://github.com/vbstreetz/zkpay
+language: JavaScript
+created_since: 23
+updated_since: 13
+contributor_count: 1
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.06638
+"
+1736,https://github.com/voskcoin,1,
+1670,https://github.com/wighawag,1,
+1669,https://github.com/orgs/idena-network/,1,
+1666,https://github.com/wslyvh/tokenlog,0,"name: tokenlog
+url: https://github.com/wslyvh/tokenlog
+language: TypeScript
+created_since: 25
+updated_since: 4
+contributor_count: 5
+org_count: 2
+commit_frequency: 0.2
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.14695
+"
+1657,https://github.com/paulrberg,1,
+1653,https://github.com/coincashew/coincashew,0,"name: coincashew
+url: https://github.com/coincashew/coincashew
+language: None
+created_since: 30
+updated_since: 0
+contributor_count: 47
+org_count: 4
+commit_frequency: 10.6
+recent_releases_count: 0
+updated_issues_count: 23
+closed_issues_count: 23
+comment_frequency: 1.1
+dependents_count: 0
+criticality_score: 0.38726
+"
+1641,https://github.com/lexDAO/LexDAO-Dispute-Handbook,0,"name: LexDAO-Dispute-Handbook
+url: https://github.com/lexDAO/LexDAO-Dispute-Handbook
+language: None
+created_since: 23
+updated_since: 23
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+1638,https://github.com/Freeelio/electric-circus,0,"name: electric-circus
+url: https://github.com/Freeelio/electric-circus
+language: None
+created_since: 23
+updated_since: 23
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.01915
+"
+1632,https://github.com/RektHQ,1,
+1625,https://github.com/PrimitivesLane,1,
+1624,https://github.com/dmihal/crypto-fees,0,"name: crypto-fees
+url: https://github.com/dmihal/crypto-fees
+language: TypeScript
+created_since: 28
+updated_since: 1
+contributor_count: 20
+org_count: 4
+commit_frequency: 1.4
+recent_releases_count: 0
+updated_issues_count: 4
+closed_issues_count: 1
+comment_frequency: 0.2
+dependents_count: 0
+criticality_score: 0.26722
+"
+1620,https://github.com/darrenlautf,1,
+1619,https://github.com/CommitPool,1,
+1609,https://github.com/ethcolombia,1,
+1599,https://github.com/givestation,1,
+1595,https://github.com/BloomNetwork,1,
+1592,https://github.com/nomicfoundation/hardhat,0,"name: hardhat
+url: https://github.com/NomicFoundation/hardhat
+language: TypeScript
+created_since: 55
+updated_since: 0
+contributor_count: 225
+org_count: 5
+commit_frequency: 36.0
+recent_releases_count: 64
+updated_issues_count: 551
+closed_issues_count: 316
+comment_frequency: 3.0
+dependents_count: 149
+criticality_score: 0.68876
+"
+1577,https://github.com/asseth/EthCC-website,0,"name: EthCC-website
+url: https://github.com/asseth/EthCC-website
+language: HTML
+created_since: 58
+updated_since: 16
+contributor_count: 22
+org_count: 7
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 12
+criticality_score: 0.26516
+"
+1573,https://github.com/metagov,1,
+1565,https://github.com/ExtropyIO/DemystiFi,0,"name: DemystiFi
+url: https://github.com/ExtropyIO/DemystiFi
+language: JavaScript
+created_since: 25
+updated_since: 24
+contributor_count: 3
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 2
+criticality_score: 0.09297
+"
+1561,https://github.com/superphiz/ethstaker,0,"name: ethstaker
+url: https://github.com/superphiz/ethstaker
+language: None
+created_since: 31
+updated_since: 14
+contributor_count: 5
+org_count: 2
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.12199
+"
+1534,https://github.com/prettier-solidity/prettier-plugin-solidity,0,"name: prettier-plugin-solidity
+url: https://github.com/prettier-solidity/prettier-plugin-solidity
+language: JavaScript
+created_since: 54
+updated_since: 0
+contributor_count: 20
+org_count: 6
+commit_frequency: 1.8
+recent_releases_count: 2
+updated_issues_count: 40
+closed_issues_count: 31
+comment_frequency: 0.5
+dependents_count: 171
+criticality_score: 0.47411
+"
+1509,https://github.com/dappgoose-labs,1,
+1499,https://github.com/tao-DAO,1,
+1467,https://github.com/chaine-io/climatedatapool/,0,"name: climatedatapool
+url: https://github.com/chaine-io/climatedatapool
+language: HTML
+created_since: 28
+updated_since: 24
+contributor_count: 3
+org_count: 2
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09584
+"
+1464,https://github.com/kontext-app,1,
+1424,https://github.com/cranders1,1,
+1403,https://github.com/Geo-Web-Project,1,
+1321,https://github.com/dAAAb/BBFT,0,"name: BBFT
+url: https://github.com/dAAAb/BBFT
+language: None
+created_since: 36
+updated_since: 29
+contributor_count: 6
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09291
+"
+1297,https://github.com/WhalerDAO,1,
+1262,https://github.com/gaiagives,1,
+1252,https://github.com/polywrap,1,
+1245,https://github.com/token-terminal,1,
+1228,https://github.com/buidlin,1,
+1211,https://github.com/aliatiia?tab=repositories,1,
+1183,https://github.com/Web3Bridge,1,
+1175,https://github.com/wslyvh/ethgaswatch,0,"name: ethgaswatch
+url: https://github.com/wslyvh/ethgaswatch
+language: TypeScript
+created_since: 28
+updated_since: 5
+contributor_count: 4
+org_count: 2
+commit_frequency: 0.6
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.14502
+"
+1166,https://github.com/lucadgtrip/,1,
+1162,https://github.com/BuidlGuidl/nifty-ink,0,"name: nifty-ink
+url: https://github.com/BuidlGuidl/nifty-ink
+language: TypeScript
+created_since: 30
+updated_since: 0
+contributor_count: 15
+org_count: 4
+commit_frequency: 0.9
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.25073
+"
+1158,https://github.com/finematics,1,
+1155,https://github.com/CommonsBuild,1,
+1151,https://github.com/Daft-Wullie?tab=overview,1,
+1143,https://github.com/floating/frame,0,"name: frame
+url: https://github.com/floating/frame
+language: JavaScript
+created_since: 56
+updated_since: 3
+contributor_count: 19
+org_count: 6
+commit_frequency: 6.8
+recent_releases_count: 16
+updated_issues_count: 200
+closed_issues_count: 148
+comment_frequency: 0.6
+dependents_count: 1184
+criticality_score: 0.54698
+"
+1141,https://github.com/1Hive/conviction-voting-cadcad,0,"name: conviction-voting-cadcad
+url: https://github.com/1Hive/conviction-voting-cadcad
+language: Jupyter Notebook
+created_since: 28
+updated_since: 23
+contributor_count: 7
+org_count: 3
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.1301
+"
+1139,https://github.com/metacartel,1,
+1122,https://github.com/dappkit/vyper.fun,0,"name: vyper.fun
+url: https://github.com/vyperfun/vyper.fun
+language: HTML
+created_since: 26
+updated_since: 22
+contributor_count: 18
+org_count: 2
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 11
+criticality_score: 0.18373
+"
+1110,https://github.com/lab10-coop,1,
+1102,https://github.com/astralprotocol,1,
+1093,https://github.com/snapshot-labs/snapshot,0,"name: snapshot
+url: https://github.com/snapshot-labs/snapshot
+language: Vue
+created_since: 26
+updated_since: 0
+contributor_count: 86
+org_count: 7
+commit_frequency: 36.1
+recent_releases_count: 0
+updated_issues_count: 430
+closed_issues_count: 373
+comment_frequency: 1.2
+dependents_count: 276
+criticality_score: 0.58489
+"
+1088,https://github.com/creol-io,1,
+1080,https://github.com/treejer,1,
+1051,https://github.com/FAMEGOODS,1,
+1047,https://github.com/intellij-solidity/intellij-solidity,0,"name: intellij-solidity
+url: https://github.com/intellij-solidity/intellij-solidity
+language: Kotlin
+created_since: 70
+updated_since: 2
+contributor_count: 21
+org_count: 10
+commit_frequency: 0.7
+recent_releases_count: 4
+updated_issues_count: 23
+closed_issues_count: 7
+comment_frequency: 1.5
+dependents_count: 2
+criticality_score: 0.41331
+"
+982,https://github.com/afuturemodern,1,
+972,https://github.com/wighawag/hardhat-deploy,0,"name: hardhat-deploy
+url: https://github.com/wighawag/hardhat-deploy
+language: TypeScript
+created_since: 31
+updated_since: 0
+contributor_count: 48
+org_count: 3
+commit_frequency: 2.5
+recent_releases_count: 53
+updated_issues_count: 43
+closed_issues_count: 18
+comment_frequency: 1.6
+dependents_count: 210
+criticality_score: 0.52368
+"
+938,https://github.com/ethereum/sourcify,0,"name: sourcify
+url: https://github.com/ethereum/sourcify
+language: TypeScript
+created_since: 42
+updated_since: 0
+contributor_count: 39
+org_count: 4
+commit_frequency: 8.8
+recent_releases_count: 0
+updated_issues_count: 60
+closed_issues_count: 49
+comment_frequency: 2.2
+dependents_count: 22
+criticality_score: 0.47299
+"
+934,https://github.com/blockthreat,1,
+916,https://github.com/FreezingMoon/AncientBeast,0,"name: AncientBeast
+url: https://github.com/FreezingMoon/AncientBeast
+language: JavaScript
+created_since: 137
+updated_since: 0
+contributor_count: 121
+org_count: 4
+commit_frequency: 5.1
+recent_releases_count: 0
+updated_issues_count: 85
+closed_issues_count: 32
+comment_frequency: 2.2
+dependents_count: 4281
+criticality_score: 0.61432
+"
+855,https://github.com/kernel-community,1,
+821,https://github.com/ScopeLift/umbra-protocol,0,"name: umbra-protocol
+url: https://github.com/ScopeLift/umbra-protocol
+language: TypeScript
+created_since: 30
+updated_since: 0
+contributor_count: 15
+org_count: 4
+commit_frequency: 6.3
+recent_releases_count: 1
+updated_issues_count: 72
+closed_issues_count: 48
+comment_frequency: 1.6
+dependents_count: 3
+criticality_score: 0.40793
+"
+811,https://github.com/tokenBrice,1,
+798,https://github.com/A-Hitchhiker-s/Guide-to-Token-Engineering,0,"name: Guide-to-Token-Engineering
+url: https://github.com/A-Hitchhiker-s/Guide-to-Token-Engineering
+language: None
+created_since: 30
+updated_since: 0
+contributor_count: 1
+org_count: 0
+commit_frequency: 0.3
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.10786
+"
+795,https://github.com/giveth/giveth-2,0,"name: giveth-gatsby
+url: https://github.com/Giveth/giveth-gatsby
+language: JavaScript
+created_since: 30
+updated_since: 18
+contributor_count: 12
+org_count: 3
+commit_frequency: 0.0
+recent_releases_count: 1
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.16325
+"
+782,https://github.com/ethereum-cat-herders,1,
+684,https://github.com/ShenaniganDApp/,1,
+646,https://github.com/developerfred,1,
+634,https://github.com/likecoin,1,
+599,https://github.com/Proof-of-Humanity,1,
+584,https://github.com/88mphapp,1,
+564,https://github.com/dandelion-collective/dandelion/,0,"name: dandelion
+url: https://github.com/dandelion-collective/dandelion
+language: JavaScript
+created_since: 10
+updated_since: 0
+contributor_count: 1
+org_count: 0
+commit_frequency: 15.9
+recent_releases_count: 0
+updated_issues_count: 2
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.1337
+"
+543,https://github.com/LeastAuthority,1,
+542,https://github.com/DAOrecords,1,
+539,https://github.com/commons-stack/iteration0,0,"name: iteration0
+url: https://github.com/commons-stack/iteration0
+language: None
+created_since: 27
+updated_since: 15
+contributor_count: 4
+org_count: 2
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 150
+closed_issues_count: 81
+comment_frequency: 0.6
+dependents_count: 0
+criticality_score: 0.19712
+"
+524,https://github.com/clrfund,1,
+516,https://github.com/interspacechat,1,
+468,https://github.com/ETHPlanet,1,
+413,https://github.com/scco/fusion,0,"name: fusion
+url: https://github.com/scco/fusion
+language: JavaScript
+created_since: 33
+updated_since: 6
+contributor_count: 3
+org_count: 2
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.13097
+"
+389,https://github.com/whatisonchain,1,
+385,https://github.com/btcven/locha,0,"name: locha
+url: https://github.com/btcven/locha
+language: None
+created_since: 51
+updated_since: 26
+contributor_count: 12
+org_count: 1
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 21
+criticality_score: 0.17637
+"
+384,https://github.com/diglos/ethereumonarm,0,"name: ethereumonarm
+url: https://github.com/diglos/ethereumonarm
+language: Shell
+created_since: 22
+updated_since: 0
+contributor_count: 9
+org_count: 6
+commit_frequency: 2.3
+recent_releases_count: 1
+updated_issues_count: 13
+closed_issues_count: 9
+comment_frequency: 0.9
+dependents_count: 18
+criticality_score: 0.38286
+"
+383,https://github.com/ActivityWatch/activitywatch,0,"name: activitywatch
+url: https://github.com/ActivityWatch/activitywatch
+language: Python
+created_since: 79
+updated_since: 1
+contributor_count: 25
+org_count: 6
+commit_frequency: 2.2
+recent_releases_count: 5
+updated_issues_count: 66
+closed_issues_count: 31
+comment_frequency: 2.5
+dependents_count: 149
+criticality_score: 0.52373
+"
+380,https://github.com/EthereumCN,1,
+358,https://github.com/skywinder,1,
+347,https://github.com/cryptoscamdb/,1,
+337,https://github.com/couger-inc/cream,0,"name: cream
+url: https://github.com/couger-inc/cream
+language: TypeScript
+created_since: 34
+updated_since: 8
+contributor_count: 6
+org_count: 2
+commit_frequency: 0.5
+recent_releases_count: 2
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 2
+criticality_score: 0.18718
+"
+331,https://github.com/CirclesUBI/,1,
+308,https://github.com/cadCAD-org,1,
+285,https://github.com/DemocracyEarth/ubi,0,"name: ubi
+url: https://github.com/DemocracyEarth/ubi
+language: TypeScript
+created_since: 23
+updated_since: 6
+contributor_count: 13
+org_count: 6
+commit_frequency: 1.1
+recent_releases_count: 6
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 3
+criticality_score: 0.27082
+"
+281,https://github.com/upala-digital-identity,1,
+277,https://github.com/commons-stack/commons-simulator,0,"name: commons-simulator
+url: https://github.com/commons-stack/commons-simulator
+language: Jupyter Notebook
+created_since: 34
+updated_since: 19
+contributor_count: 12
+org_count: 2
+commit_frequency: 0.0
+recent_releases_count: 0
+updated_issues_count: 1
+closed_issues_count: 0
+comment_frequency: 0.0
+dependents_count: 0
+criticality_score: 0.14327
+"
+270,https://github.com/DecentralizedScience,1,
+259,https://github.com/RevokeCash,1,
+258,https://github.com/gobitfly/eth2-beaconchain-explorer,0,"name: eth2-beaconchain-explorer
+url: https://github.com/gobitfly/eth2-beaconchain-explorer
+language: HTML
+created_since: 35
+updated_since: 0
+contributor_count: 59
+org_count: 3
+commit_frequency: 13.1
+recent_releases_count: 0
+updated_issues_count: 276
+closed_issues_count: 194
+comment_frequency: 0.3
+dependents_count: 82
+criticality_score: 0.47972
+"
+231,https://github.com/BuidlHonduras,1,
+213,https://github.com/MetaFam,1,
+202,https://github.com/vocdoni,1,
+200,https://github.com/vyperlang/vyper,0,"name: vyper
+url: https://github.com/vyperlang/vyper
+language: Python
+created_since: 72
+updated_since: 0
+contributor_count: 198
+org_count: 4
+commit_frequency: 6.0
+recent_releases_count: 7
+updated_issues_count: 181
+closed_issues_count: 122
+comment_frequency: 1.6
+dependents_count: 30
+criticality_score: 0.57199
+"
+191,https://github.com/BrightID,1,
+184,https://github.com/TrueBlocks/trueblocks-core,0,"name: trueblocks-core
+url: https://github.com/TrueBlocks/trueblocks-core
+language: C++
+created_since: 67
+updated_since: 0
+contributor_count: 42
+org_count: 3
+commit_frequency: 33.0
+recent_releases_count: 17
+updated_issues_count: 310
+closed_issues_count: 157
+comment_frequency: 0.4
+dependents_count: 49
+criticality_score: 0.54609
+"
+177,https://github.com/vporton/carbon-flow,0,"name: carbon-flow
+url: https://github.com/vporton/carbon-flow
+language: Solidity
+created_since: 25
+updated_since: 2
+contributor_count: 2
+org_count: 0
+commit_frequency: 1.4
+recent_releases_count: 0
+updated_issues_count: 0
+closed_issues_count: 0
+comment_frequency: 0
+dependents_count: 0
+criticality_score: 0.09823
+"
+172,https://github.com/zeropoolnetwork,1,
+159,https://github.com/DimensionDev/Maskbook/,0,"name: Maskbook
+url: https://github.com/DimensionDev/Maskbook
+language: TypeScript
+created_since: 44
+updated_since: 0
+contributor_count: 60
+org_count: 4
+commit_frequency: 45.0
+recent_releases_count: 37
+updated_issues_count: 990
+closed_issues_count: 952
+comment_frequency: 0.9
+dependents_count: 97
+criticality_score: 0.6144
+"
+149,https://github.com/rotki/rotki/,0,"name: rotki
+url: https://github.com/rotki/rotki
+language: Python
+created_since: 66
+updated_since: 0
+contributor_count: 95
+org_count: 2
+commit_frequency: 35.6
+recent_releases_count: 15
+updated_issues_count: 409
+closed_issues_count: 348
+comment_frequency: 1.5
+dependents_count: 109
+criticality_score: 0.59908
+"
+139,https://github.com/defiprime/defiprime/,0,"name: defiprime
+url: https://github.com/defiprime/defiprime
+language: SCSS
+created_since: 43
+updated_since: 0
+contributor_count: 22
+org_count: 4
+commit_frequency: 4.5
+recent_releases_count: 0
+updated_issues_count: 27
+closed_issues_count: 27
+comment_frequency: 0.0
+dependents_count: 16
+criticality_score: 0.38427
+"
+118,https://github.com/RibbonBlockchain,1,
+63,https://github.com/RadicalxChange,1,
+25,https://github.com/sigp/lighthouse,0,"name: lighthouse
+url: https://github.com/sigp/lighthouse
+language: Rust
+created_since: 52
+updated_since: 1
+contributor_count: 125
+org_count: 3
+commit_frequency: 8.7
+recent_releases_count: 20
+updated_issues_count: 394
+closed_issues_count: 292
+comment_frequency: 2.9
+dependents_count: 855
+criticality_score: 0.63438
+"
+24,https://github.com/prysmaticlabs/prysm,0,"name: prysm
+url: https://github.com/prysmaticlabs/prysm
+language: Go
+created_since: 88
+updated_since: 0
+contributor_count: 170
+org_count: 5
+commit_frequency: 21.8
+recent_releases_count: 20
+updated_issues_count: 572
+closed_issues_count: 461
+comment_frequency: 1.4
+dependents_count: 2837
+criticality_score: 0.71359
+"
+13,https://github.com/ethers-io/ethers.js,0,"name: ethers.js
+url: https://github.com/ethers-io/ethers.js
+language: TypeScript
+created_since: 76
+updated_since: 1
+contributor_count: 15
+org_count: 5
+commit_frequency: 3.5
+recent_releases_count: 17
+updated_issues_count: 235
+closed_issues_count: 108
+comment_frequency: 1.4
+dependents_count: 2022
+criticality_score: 0.57503
+"

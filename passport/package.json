@@ -1,0 +1,16 @@
+{
+  "name": "passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gitcoinco/passport-sdk-reader": "^0.1.4",
+    "csv-parse": "^5.3.1",
+    "csv-stringify": "^6.2.0"
+  }
+}
