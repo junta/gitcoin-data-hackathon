@@ -7,10 +7,10 @@ import pandas as pd
 st.markdown("# Sybil Slayer Bounties")
 st.sidebar.markdown("# Sybil Slayer Bounties")
 
-contributions = pd.read_csv('../GR15_public_hackathon/hackathon-contributions-dataset_v2.csv') 
-describe = contributions.groupby(['chain'])['amount_in_usdt'].describe()
+# contributions = pd.read_csv('../GR15_public_hackathon/hackathon-contributions-dataset_v2.csv') 
+# describe = contributions.groupby(['chain'])['amount_in_usdt'].describe()
 
-st.table(describe)
+# st.table(describe)
 
 # fig, ax = plt.subplots()
 # ax.hist(contributions[contributions['amount_in_usdt'] < 20]['amount_in_usdt'], bins=20)
