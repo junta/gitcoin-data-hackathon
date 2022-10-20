@@ -36,7 +36,6 @@ for example commit_frequency, contributor_count, etc..., and their repository ha
 Here is top 10 highest scored repositories across all languages.
 """)
 
-# top_scored = pd.read_csv('../github/top200.csv')
 top_scored = pd.read_csv('./github/top200.csv')
 st.table(top_scored.head(10))
 
@@ -50,17 +49,17 @@ We have gathered this score for all applicable projects of Gitcoin round 15.
 Of course, not all projects provided their github_repo_url.
 """)
 
-grants = pd.read_csv('../grants.csv') 
+grants = pd.read_csv('./public_data/grants.csv') 
 no_github = grants[grants['github_project_url'].isna()].count()
 
 st.markdown("""
 Among 1502 approved grants in GR15, **937** projects provided their Github URL, and **565** projects did not.
-
-
 """)
 
-valid_repo = pd.read_csv('../github/valid_repos.csv')
-repository_score = pd.read_csv('../github/repository_score.csv') 
+valid_repo = pd.read_csv('./github/valid_repos.csv')
+repository_score = pd.read_csv('./github/repository_score.csv') 
+
+
 d = {'name': ['repo_page', 'profile_page', '404_not_found'], 'count': [0, 0, 0]}
 repo_count = pd.DataFrame(d)
 
