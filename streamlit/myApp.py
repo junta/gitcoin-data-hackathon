@@ -2,7 +2,7 @@
 import streamlit as st
 #import seaborn as sns
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 st.markdown("# Sybil Slayer Bounties")
 st.sidebar.markdown("# Sybil Slayer Bounties")
@@ -12,6 +12,6 @@ describe = contributions.groupby(['chain'])['amount_in_usdt'].describe()
 
 st.table(describe)
 
-fig, ax = plt.subplots()
-ax.hist(contributions[contributions['amount_in_usdt'] < 20]['amount_in_usdt'], bins=20)
-st.pyplot(fig)
+# fig, ax = plt.subplots()
+# ax.hist(contributions[contributions['amount_in_usdt'] < 20]['amount_in_usdt'], bins=20)
+# st.pyplot(fig)

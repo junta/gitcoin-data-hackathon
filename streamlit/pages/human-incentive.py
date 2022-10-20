@@ -2,7 +2,6 @@
 import streamlit as st
 #import seaborn as sns
 import pandas as pd
-from matplotlib import pyplot as plt
 import plotly.express as px
 
 st.markdown("# Hack Human Incentive")
