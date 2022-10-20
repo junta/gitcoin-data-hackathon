@@ -36,7 +36,8 @@ for example commit_frequency, contributor_count, etc..., and their repository ha
 Here is top 10 highest scored repositories across all languages.
 """)
 
-top_scored = pd.read_csv('./streamlit/data/top200.csv')
+# top_scored = pd.read_csv('../github/top200.csv')
+top_scored = pd.read_csv('./github/top200.csv')
 st.table(top_scored.head(10))
 
 st.write("We can see many famous projects in this list and it's reliable socre.")
