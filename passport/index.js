@@ -44,14 +44,15 @@ const filterValidStamps = (stamps) => {
 };
 
 const mainFunc = async () => {
-  const inputData = fs.readFileSync("addresses.csv", { encoding: "utf8" });
+  //   const inputData = fs.readFileSync("addresses.csv", { encoding: "utf8" });
+  const inputData = fs.readFileSync("output.csv", { encoding: "utf8" });
   const parsedData = parse(inputData, { columns: true });
 
   //   console.log(parsedData[0]);
   for (record of parsedData) {
-    console.log(record);
+    console.log(record.index);
 
-    // if (record.index < 80) continue;
+    // if (record.index < 22100) continue;
 
     try {
       const passport = await readPassport(record.address);
