@@ -50,6 +50,7 @@ And propose a method to make screening process better with repository score at l
 """)
 
 st.markdown("""
+    table of contents:
     1. Introduction of Github critical score
     2. Overview of critical score of grantee of GR15
     3. Correlation between critical score and other variables
@@ -82,6 +83,7 @@ st.subheader("2. Overview of critical score of grantee of GR15")
 
 st.write("""
 We have gathered this score for all applicable projects of Gitcoin round 15.
+We did this process at Oct 19th, so scores we gathered could be different from scores during GR15.
 Of course, not all projects provided their github_repo_url.
 """)
 
@@ -133,10 +135,10 @@ we have to speficy main one repository to generate score.
 
 st.subheader("3. Correlation between critical score and other variables")
 
-fig = px.scatter(get_merged_repo_data(), x='score', y='amount_received', hover_name='title')
+fig = px.scatter(get_merged_repo_data(), x='score', y='amount_received', hover_name='title', trendline='ols', trendline_color_override='darkblue')
 st.plotly_chart(fig)
 
-fig = px.scatter(get_merged_repo_data(), x='score', y='amount_received_in_round', hover_name='title')
+fig = px.scatter(get_merged_repo_data(), x='score', y='amount_received_in_round', hover_name='title', trendline='ols', trendline_color_override='darkblue')
 st.plotly_chart(fig)
 
 fig = px.scatter(get_merged_repo_data(), x='score', y='contribution_count', hover_name='title')

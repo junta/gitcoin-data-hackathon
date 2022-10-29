@@ -6,9 +6,6 @@ const { stringify } = require("csv-stringify/sync");
 const readPassport = async (address) => {
   const CERAMIC_PASSPORT = "https://ceramic.passport-iam.gitcoin.co";
   const reader = new PassportReader.PassportReader(CERAMIC_PASSPORT, "1");
-
-  //   const address = "0xeE22EE448a3A2b6B8F01A45da1476E2d01e24F3a";
-  //   const address = "0xdffe6d135e4396f90ba66a1024bdeb6ef5df9276";
   const passport = await reader.getPassport(address);
   return passport;
 };
@@ -17,7 +14,7 @@ const readPassportSample = async () => {
   const CERAMIC_PASSPORT = "https://ceramic.passport-iam.gitcoin.co";
   const reader = new PassportReader.PassportReader(CERAMIC_PASSPORT, "1");
 
-  const address = "0xeE22EE448a3A2b6B8F01A45da1476E2d01e24F3a";
+  const address = "0xdffe6d135e4396f90ba66a1024bdeb6ef5df9276";
 
   const passport = await reader.getPassport(address);
   console.log(passport);
