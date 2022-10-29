@@ -55,7 +55,9 @@ st.subheader("2. Overview of Gitcoin Passport data")
 st.markdown("""
 We gathered Gitcoin Passport data of each contributors in Round 15 by [Gitcoin Passport SDK: Reader](https://github.com/gitcoinco/passport-sdk/tree/main/packages/reader).
 
-And filtered their stamps to valid stamps as issuanceDate is before 2022-09-23(the last day of GR15) and not expired yet.
+And filtered their stamps to valid stamps as issuanceDate is before 2022-09-23(the last day of GR15) and not expired yet, then aggregated stamps count and merged into grants dataset.
+
+You can find [grants_stamps.csv data here]().
 """)
 
 passport = get_passports()
@@ -64,11 +66,12 @@ non_hodler_count = passport[passport['valid_stamps_count'] == 0.0].count()['addr
 holders_count = passport[passport['valid_stamps_count'] != 0.0].count()['address']
 holders = passport[passport['valid_stamps_count'] != 0.0]
 
-holders_str = f"""
-<p>Passport Holders(Having at least one Passport stamp): {holders_count}</p>
-<p>Non Passport Holders: {non_hodler_count}</p>
-"""
-st.markdown(holders_str, unsafe_allow_html=True)
+st.markdown("""
+|                                                      | count  |
+|------------------------------------------------------|--------|
+| Passport Holders(Having at least one Passport stamp) | 19,049 |
+| Non Passport Holders                                 | 36,536 |
+""")
 
 
 stamp_count_fig = px.histogram(holders, x="valid_stamps_count", title="Number of stamps among Passport holders")
@@ -87,7 +90,7 @@ We can observe that many contributors of GR15 issued stamps during GR15 period(S
 st.subheader("3. Analysis through stamp_holders_ratio")
 
 st.markdown("""
-We defined stamp_holders_ratio as follows.
+We would like to introduce Stamp Holders Ratio and defined them as follows.
 
 *Stamp Holders Ratio = Contributors of holding stamps / Total Contributors*
 
@@ -106,21 +109,45 @@ st.plotly_chart(fig)
 # ratio_fig = px.histogram(grants_stamps, x="holders_ratio", title="Histgram of Holders Ratio")
 # st.plotly_chart(ratio_fig)
 
-st.markdown("""
-We split grants into three categories as follows.
-1. High: Stamp Holders Ratio > 0.75
-2. Normal: Stamp Holders Ratio >= 0.25, <= 0.75
-3. Low: Stamp Holders Ratio < 0.25
-
-We assume that some of them in high and low ratio group are suspicious actor/attacker and there are some statistical difference from normal group.
+st.write("""
+Showing overlaid histogram of top 50 projects(grants) with the highest amount of donations received in GR15.
+Their Stamp Holders Ratio is range from 0.33 to 0.68 and has natual distribution.
 """)
+
+st.markdown("""
+Then, We split grants into three groups by Stamp Holders Ratio as follows.
+| Category   | Description                                                                                                                               |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| High ratio | Top 50 projects with the highest stamp holder ratio                                                                                       |
+| Low ratio  | Bottom 50 projects with the lowest stamp holder ratios                                                                                    |
+| Normal     | Rest of them. (Projects not included in either of top50 or high/low ratio groups fall into this group. random sampled 50, when show charts.) |
+
+""")
+st.text("")
 
 grants_by_ratio = get_grants_by_ratio()
 high = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'high']
 low = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'low']
 normal = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'normal']
+
+st.markdown("#### List of Grants in each group")
+tab1, tab2, tab3, tab4 = st.tabs(["Top", "High Ratio", "Low Ratio", "Normal"])
+with tab1:
+    st.dataframe(top)
+with tab2:
+    st.dataframe(high)
+with tab3:
+    st.dataframe(low)
+with tab4:
+    st.dataframe(normal)
+
+st.write("""
+We assume that some of grants in high and low ratio group are suspicious actor/attacker and there would be some statistical difference from normal group.
+""")
+
 grants_by_ratio_fig = px.histogram(grants_by_ratio, x="amount_per_contributor", color="holders_ratio_category",
                    marginal="box", # or violin, rug
+                   title='Histgram of Average donation amount in USD per contributor'
                    )
 st.plotly_chart(grants_by_ratio_fig)
 # grants_by_ratio_box = px.box(grants_by_ratio, x="holders_ratio_category", y="amount_per_contributor")
@@ -128,7 +155,7 @@ st.plotly_chart(grants_by_ratio_fig)
 
 st.markdown("""
 We observe that average donation amount per contributors is statistically significant difference between low_ratio, high_ratio and normal group.
-Average donation amount is lower than normal group.
+Especially, amount per contributor in low group is much lower than normal group.
 """)
 
 st.markdown("#### T-Test result")
@@ -148,8 +175,18 @@ result_amount_low
 
 contributors_hist = px.histogram(grants_by_ratio, x="contributor_count_in_round", color="holders_ratio_category",
                    marginal="box", # or violin, rug
+                   title='Histgram of number of contributors in GR15'
                    )
 st.plotly_chart(contributors_hist)
+
+st.write("""
+It is clear that distribution of low ratio group is extraordinary, thier number of contributors is much higher than other groups.
+
+We can understand this behaivoir, attackers in low_ratio group put more effort on creating puppet account than collecting stamps.
+On the other hand, distribution of high_ratio group has a similar form to normal group.
+
+Assuming there are no sybil attackers, distribution of above two charts should be the same for all of the three groups.
+""")
 
 # contributors_box = px.box(grants_by_ratio, x="holders_ratio_category", y="contributor_count_in_round")
 # st.plotly_chart(contributors_box)
@@ -171,23 +208,21 @@ result_contributor_low
 fig = px.scatter(grants_by_ratio,
     x='contributor_count_in_round', y='amount_per_contributor',
     color="holders_ratio_category"
-    ,hover_name='title')
+    ,hover_name='title'
+    ,title='Scatter plots')
 st.plotly_chart(fig)
 
-st.markdown("""
-We observe that number of contributors in low_ratio group is much higher than other groups.
-
-We can understand this behaivoir, attackers in low_ratio group put more effort on creating puppet account than collecting stamps.
+st.write("""
+In the scatter plot, it is more evident that some of the grants in low ratio group have too many contributors and too small amount per contributor, compared to the other two groups.
 """)
+
 
 st.subheader("4. Summary & Proposals")
 
 st.markdown("""
-We conclude the following two groups of grant are suspicious as sybil attackers.
-1. low stamp holders ratio + small average amount donations + many contributors
-2. high stamp holders ratio + small average amount donations
+In conclusion, they are likely to be sybil attackers if they have low stamp holders ratio + too small average amount donations + too many contributors.
 
-We are not saying all of grants in above groups are attackers, but we believe some attackers got mixed in among above groups.
+some of grants having high stamp holders ratio may also suspicious, but not so clear compared to the above case.
 
-
+We belive Gitcoin team can introduce this method as one of the sybil detection legos.
 """)
