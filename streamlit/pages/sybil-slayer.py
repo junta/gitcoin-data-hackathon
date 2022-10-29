@@ -57,7 +57,7 @@ We gathered Gitcoin Passport data of each contributors in Round 15 by [Gitcoin P
 
 And filtered their stamps to valid stamps as issuanceDate is before 2022-09-23(the last day of GR15) and not expired yet, then aggregated stamps count and merged into grants dataset.
 
-You can find [grants_stamps.csv data here]().
+You can find [grants_stamps.csv data here](https://github.com/junta/gitcoin-data-hackathon/blob/main/analytics_data/grants_stamps.csv).
 """)
 
 passport = get_passports()
@@ -131,15 +131,15 @@ low = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'low']
 normal = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'normal']
 
 st.markdown("#### List of Grants in each group")
-tab1, tab2, tab3, tab4 = st.tabs(["Top", "High Ratio", "Low Ratio", "Normal"])
+tab1, tab2, tab3, tab4 = st.tabs(["Top", "Normal", "High Ratio", "Low Ratio"])
 with tab1:
     st.dataframe(top)
 with tab2:
-    st.dataframe(high)
-with tab3:
-    st.dataframe(low)
-with tab4:
     st.dataframe(normal)
+with tab3:
+    st.dataframe(high)
+with tab4:
+    st.dataframe(low)
 
 st.write("""
 We assume that some of grants in high and low ratio group are suspicious actor/attacker and there would be some statistical difference from normal group.
