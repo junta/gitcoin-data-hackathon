@@ -159,19 +159,19 @@ Especially, amount per contributor in low group is much lower than normal group.
 """)
 
 st.markdown("#### T-Test result")
-result_amount_high = mannwhitneyu(high['amount_per_contributor'], normal['amount_per_contributor'])
-result_amount_low = mannwhitneyu(low['amount_per_contributor'], normal['amount_per_contributor'])
-result_amount_high
-result_amount_low
-# result_high = ttest_ind(high['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
-# result_low = ttest_ind(low['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
+# result_amount_high = mannwhitneyu(high['amount_per_contributor'], normal['amount_per_contributor'])
+# result_amount_low = mannwhitneyu(low['amount_per_contributor'], normal['amount_per_contributor'])
+# result_amount_high
+# result_amount_low
+result_high = ttest_ind(high['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
+result_low = ttest_ind(low['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
 
 
-# holders_str = f"""
-# <p>P Value of high_ratio vs normal group: {result_high.pvalue}</p>
-# <p>P Value of low_ratio vs normal group:  {result_low.pvalue}</p>
-# """
-# st.markdown(holders_str, unsafe_allow_html=True)
+holders_str = f"""
+<p>P Value of high_ratio vs normal group: {result_high.pvalue}</p>
+<p>P Value of low_ratio vs normal group:  {result_low.pvalue}</p>
+"""
+st.markdown(holders_str, unsafe_allow_html=True)
 
 contributors_hist = px.histogram(grants_by_ratio, x="contributor_count_in_round", color="holders_ratio_category",
                    marginal="box", # or violin, rug
@@ -192,18 +192,16 @@ Assuming there are no sybil attackers, distribution of above two charts should b
 # st.plotly_chart(contributors_box)
 
 st.markdown("#### T-Test result")
-result_contributor_high = mannwhitneyu(high['contributor_count_in_round'], normal['contributor_count_in_round'])
-result_contributor_low = mannwhitneyu(low['contributor_count_in_round'], normal['contributor_count_in_round'])
-# result_contributor_high = ttest_ind(high['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
-# result_contributo_low = ttest_ind(low['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
-result_contributor_high
-result_contributor_low
+# result_contributor_high = mannwhitneyu(high['contributor_count_in_round'], normal['contributor_count_in_round'])
+# result_contributor_low = mannwhitneyu(low['contributor_count_in_round'], normal['contributor_count_in_round'])
+result_contributor_high = ttest_ind(high['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
+result_contributo_low = ttest_ind(low['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
 
-# holders_str = f"""
-# <p>P Value of high_ratio vs normal group: {result_contributor_high}</p>
-# <p>P Value of low_ratio vs normal group:  {result_contributo_low.pvalue}</p>
-# """
-# st.markdown(holders_str, unsafe_allow_html=True)
+holders_str = f"""
+<p>P Value of high_ratio vs normal group: {result_contributor_high}</p>
+<p>P Value of low_ratio vs normal group:  {result_contributo_low.pvalue}</p>
+"""
+st.markdown(holders_str, unsafe_allow_html=True)
 
 fig = px.scatter(grants_by_ratio,
     x='contributor_count_in_round', y='amount_per_contributor',
