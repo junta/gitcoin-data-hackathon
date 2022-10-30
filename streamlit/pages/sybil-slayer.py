@@ -27,35 +27,39 @@ st.markdown("# Sybil Slayer Bounties")
 st.sidebar.markdown("# Sybil Slayer Bounties")
 
 st.write("""
-We focused on one type of sybil, attackers(not farmers) and analyzied their behaivior combined with Gitcoin Passport data.
-We categorized each grant into three category by stamp_holders_ratio, and 
-observed difference among them.
+In this analysis, We focused on one type of Sybil, attackers(not farmers). 
+And analyzed their behavior combined with Gitcoin Passport data.
+We categorized each grant into three categories by Stamp Holders Ratio, and 
+observe differences among them.
 """)
 
 st.markdown("""
     #### table of contents:
-    1. Introduction and hypothesis
+    1. Introduction and Hypothesis
     2. Overview of Gitcoin Passport data
-    3. Analysis through stamp_holders_ratio
+    3. Analysis through Stamp Holders Ratio
     4. Summary & Proposals
 """)
 
-st.subheader("1. Introduction and hypothesis")
+st.subheader("1. Introduction and Hypothesis")
 st.markdown("""
-Attackers cheat on Quadratic Funding sysmte and want to maximize its impact for their project.
+Attackers cheat on Quadratic Funding and donate to their own projects by themselves to maximize QF impact.
 
-We assume their characteristics and behaivior are as follows.
-- Have many small amount contributions and average contribution amount is lower than others.
-- Have more contributors compared to projects received similar amount of donations. (They created lots of sock puppet accounts)
-- May collect passport stamps if they highly motivated(to get Trust Bonus and maximize impact), but some of them don't do because it is time-consuming work.
-Those are valid reasoning, given how the QF system works.
+We assume their characteristics and behavior are as follows.
+- Have many small amount contributions, and average contribution amount is lower than others.
+- Have too many contributors compared to projects that received a similar amount contributions. (Because they created lots of sock puppet accounts)
+- May collect passport stamps if they are highly motivated(to get Trust Bonus and maximize impact), but some don't do because it is time-consuming work.
+Those are valid reasoning, given how the Quadratic Funding system works.
 """)
+
+st.text("")
 
 st.subheader("2. Overview of Gitcoin Passport data")
 st.markdown("""
-We gathered Gitcoin Passport data of each contributors in Round 15 by [Gitcoin Passport SDK: Reader](https://github.com/gitcoinco/passport-sdk/tree/main/packages/reader).
+We gathered Gitcoin Passport data of all contributors in Round 15 by [Gitcoin Passport SDK: Reader](https://github.com/gitcoinco/passport-sdk/tree/main/packages/reader).
 
-And filtered their stamps to valid stamps as issuanceDate is before 2022-09-23(the last day of GR15) and not expired yet, then aggregated stamps count and merged into grants dataset.
+And filtered their stamps to valid stamps as issuance date is before 2022-09-23(the last day of GR15) and not expired yet, 
+then aggregated stamps count and merged them into grants dataset.
 
 You can find [grants_stamps.csv data here](https://github.com/junta/gitcoin-data-hackathon/blob/main/analytics_data/grants_stamps.csv).
 """)
@@ -76,7 +80,7 @@ st.markdown("""
 """)
 
 
-stamp_count_fig = px.histogram(holders, x="valid_stamps_count", title="Number of stamps among Passport holders")
+stamp_count_fig = px.histogram(holders, x="valid_stamps_count", title="Number of stamps they collected among Passport holders")
 st.plotly_chart(stamp_count_fig)
 
 holders['date'] = pd.to_datetime(holders['issuance_date']).dt.date
@@ -86,10 +90,12 @@ issuarance_fig = px.bar(issuarance_by_date, y='address', title='Bar chart of sta
 st.plotly_chart(issuarance_fig)
 
 st.write("""
-We can observe that many contributors of GR15 issued stamps during GR15 period(September 07-22).
+Many contributors of GR15 issued stamps during GR15 period(September 07-22).
 """)
 
-st.subheader("3. Analysis through stamp_holders_ratio")
+st.text("")
+
+st.subheader("3. Analysis through Stamp Holders Ratio")
 
 st.markdown("""
 We would like to introduce Stamp Holders Ratio and defined them as follows.
@@ -98,8 +104,8 @@ For each grant,
 
 *Stamp Holders Ratio = Contributors of holding stamps / Total Contributors*
 
-Stamp Holders Ratio can have a range 0.0~1.0. 
-The more contributors by stamp holders, the higher this ratio be.
+Stamp Holders Ratio can have a range of 0.0~1.0. 
+The more stamp holder contributors, the higher this ratio is.
 """)
 
 grants_stamps = get_grants_stamps()
@@ -113,9 +119,13 @@ st.plotly_chart(fig)
 # ratio_fig = px.histogram(grants_stamps, x="holders_ratio", title="Histgram of Holders Ratio")
 # st.plotly_chart(ratio_fig)
 
+# st.dataframe(grants_stamps.describe())
+
 st.write("""
-Showing overlaid histogram of top 50 projects(grants) with the highest amount of donations received in GR15.
-Their Stamp Holders Ratio is range from 0.33 to 0.68 and has normal distribution.
+The above graph also shows overlaid histogram of the top 50 projects(grants) with the highest amount of contributions received in GR15.
+Their Stamp Holders Ratio ranges from 0.33 to 0.68 and has a normal distribution.
+
+Mean value of holders_ratio is 0.53. This means for each grant, half of their contributors are non stamp holders, and the other half are stamp holders on average.
 """)
 
 st.markdown("""
@@ -129,14 +139,14 @@ Then, We split grants into three groups by Stamp Holders Ratio as follows.
 """)
 st.text("")
 
-st.write("We also filtered out grants of which contribution count is less than 10 because number of samples is too little to calculate stamp holders ratio.")
+st.write("We also filtered out grants which contribution count is less than 10 because number of samples is too small to calculate the stamp holders ratio.")
 
 grants_by_ratio = get_grants_by_ratio()
 high = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'high']
 low = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'low']
 normal = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'normal']
 
-st.markdown("#### List of Grants in each group")
+st.markdown("#### List of Grants in each category")
 tab1, tab2, tab3, tab4 = st.tabs(["Top", "Normal", "High Ratio", "Low Ratio"])
 with tab1:
     st.dataframe(top)
@@ -148,49 +158,43 @@ with tab4:
     st.dataframe(low)
 
 st.write("""
-We assume that some of grants in high and low ratio group are suspicious actor/attacker and there would be some statistical difference from normal group.
+We assume that some of the grants in high and low ratio groups are suspicious attackers, because they are likely manipulated artificially if the ratio is too high or low.
+And there would be some statistical difference from the normal group.
 """)
 
 grants_by_ratio_fig = px.histogram(grants_by_ratio, x="amount_per_contributor", color="holders_ratio_category",
                    marginal="box", # or violin, rug
-                   title='Histgram of Average donation amount in USD per contributor'
+                   title='Histgram of Average contribution amount in USD per contributor'
                    )
 st.plotly_chart(grants_by_ratio_fig)
 # grants_by_ratio_box = px.box(grants_by_ratio, x="holders_ratio_category", y="amount_per_contributor")
 # st.plotly_chart(grants_by_ratio_box)
 
-st.markdown("""
-We observe that average donation amount per contributors is statistically significant difference between low_ratio and normal group.
-
-Median value in high_ratio is a bit lower than normal group, but no  statistically significant difference between them.
-""")
-
 st.markdown("**Mann-Whitney U Test result:**")
 result_amount_high = mannwhitneyu(high['amount_per_contributor'], normal['amount_per_contributor'])
 result_amount_low = mannwhitneyu(low['amount_per_contributor'], normal['amount_per_contributor'])
-
-# result_high = ttest_ind(high['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
-# result_low = ttest_ind(low['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
-
-
 holders_str = f"""
 <p>P Value of high_ratio vs normal group: {result_amount_high.pvalue}</p>
 <p>P Value of low_ratio vs normal group:  {result_amount_low.pvalue}</p>
 """
 st.markdown(holders_str, unsafe_allow_html=True)
 
+st.markdown("""
+We observe that average contribution amount per contributor is statistically significant different between low_ratio and normal group.
+
+Median value in high_ratio is a bit lower than normal group, but no statistically significant difference between them.
+""")
+
+# result_high = ttest_ind(high['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
+# result_low = ttest_ind(low['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
+
+
+
 contributors_hist = px.histogram(grants_by_ratio, x="contributor_count_in_round", color="holders_ratio_category",
                    marginal="box", # or violin, rug
                    title='Histgram of number of contributors in GR15'
                    )
 st.plotly_chart(contributors_hist)
-
-st.write("""
-It is clear that distribution of low ratio group is extraordinary, thier number of contributors is much higher than other groups.
-
-We can understand this behaivoir, attackers in low_ratio group put more effort on creating puppet account than collecting stamps.
-On the other hand, distribution of high_ratio group has a similar form to normal group.
-""")
 
 st.markdown("**Mann-Whitney U Test result:**")
 result_contributor_high = mannwhitneyu(high['contributor_count_in_round'], normal['contributor_count_in_round'])
@@ -204,10 +208,18 @@ holders_str = f"""
 """
 st.markdown(holders_str, unsafe_allow_html=True)
 
+st.write("""
+It is clear that the distribution of low ratio group is extraordinary, their number of contributors is much higher than other groups.
+
+We can understand this behavior; attackers in low_ratio group put more effort into creating puppet accounts than collecting stamps.
+On the other hand, the distribution of high_ratio group has a similar form to normal group.
+""")
+
+
 st.text("")
 
 st.write("""
-Assuming there are no sybil attackers, distribution of above two charts should be the same for all of the three groups.
+Assuming there are no Sybil attackers, distribution of the above two charts should be the same for all three groups.
 """)
 
 # contributors_box = px.box(grants_by_ratio, x="holders_ratio_category", y="contributor_count_in_round")
@@ -218,20 +230,29 @@ fig = px.scatter(grants_by_ratio,
     x='contributor_count_in_round', y='amount_per_contributor',
     color="holders_ratio_category"
     ,hover_name='title'
+    ,hover_data=['holders_ratio']
     ,title='Scatter plots')
 st.plotly_chart(fig)
 
 st.write("""
-In the scatter plot, it is more evident that some of the grants in low ratio group(Green) have too many contributors and too small amount per contributor, compared to the other two groups.
+In the scatter plot, it is more evident that some of the grants in low ratio group(Green) have too many contributors and too small an amount per contributor compared to the other two groups.
 """)
 
+st.markdown("""
+    #### Suspicious projects(as Sybil attacker)
+    (contributor_count_in_round > 500) and (amount_per_contributor < 3) and in low_ratio group
+""")
+suspicious = grants_by_ratio[(grants_by_ratio['contributor_count_in_round'] > 500) & (grants_by_ratio['amount_per_contributor'] < 3) & (grants_by_ratio['holders_ratio_category'] == 'low')]
+st.dataframe(suspicious)
+
+st.text("")
 
 st.subheader("4. Summary & Proposals")
 
 st.markdown("""
-In conclusion, they are likely to be sybil attackers if they have low stamp holders ratio + too small average amount donations + too many contributors.
+In conclusion, they are likely to be Sybil attackers if they have low stamp holders ratio + too small average amount of contributions + too many contributors.
 
-some of grants having high stamp holders ratio may also suspicious, but we could not find statistical difference between them and normal group.
+We assumed some of the grants in high_ratio group might also be suspicious, but we could not find statistical differences between them and normal group.
 
-We belive Gitcoin team can introduce this method as one of the sybil detection legos.
+We believe Gitcoin team can introduce this method as one of the Sybil detection legos.
 """)
