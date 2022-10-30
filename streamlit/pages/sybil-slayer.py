@@ -33,7 +33,7 @@ observed difference among them.
 """)
 
 st.markdown("""
-    table of contents:
+    #### table of contents:
     1. Introduction and hypothesis
     2. Overview of Gitcoin Passport data
     3. Analysis through stamp_holders_ratio
@@ -63,7 +63,9 @@ You can find [grants_stamps.csv data here](https://github.com/junta/gitcoin-data
 passport = get_passports()
 
 non_hodler_count = passport[passport['valid_stamps_count'] == 0.0].count()['address']
+# 36,536
 holders_count = passport[passport['valid_stamps_count'] != 0.0].count()['address']
+# 19,049 
 holders = passport[passport['valid_stamps_count'] != 0.0]
 
 st.markdown("""
@@ -92,6 +94,8 @@ st.subheader("3. Analysis through stamp_holders_ratio")
 st.markdown("""
 We would like to introduce Stamp Holders Ratio and defined them as follows.
 
+For each grant,
+
 *Stamp Holders Ratio = Contributors of holding stamps / Total Contributors*
 
 Stamp Holders Ratio can have a range 0.0~1.0. 
@@ -111,7 +115,7 @@ st.plotly_chart(fig)
 
 st.write("""
 Showing overlaid histogram of top 50 projects(grants) with the highest amount of donations received in GR15.
-Their Stamp Holders Ratio is range from 0.33 to 0.68 and has natual distribution.
+Their Stamp Holders Ratio is range from 0.33 to 0.68 and has normal distribution.
 """)
 
 st.markdown("""
@@ -124,6 +128,8 @@ Then, We split grants into three groups by Stamp Holders Ratio as follows.
 
 """)
 st.text("")
+
+st.write("We also filtered out grants of which contribution count is less than 10 because number of samples is too little to calculate stamp holders ratio.")
 
 grants_by_ratio = get_grants_by_ratio()
 high = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'high']
@@ -154,22 +160,22 @@ st.plotly_chart(grants_by_ratio_fig)
 # st.plotly_chart(grants_by_ratio_box)
 
 st.markdown("""
-We observe that average donation amount per contributors is statistically significant difference between low_ratio, high_ratio and normal group.
-Especially, amount per contributor in low group is much lower than normal group.
+We observe that average donation amount per contributors is statistically significant difference between low_ratio and normal group.
+
+Median value in high_ratio is a bit lower than normal group, but no  statistically significant difference between them.
 """)
 
-st.markdown("#### T-Test result")
-# result_amount_high = mannwhitneyu(high['amount_per_contributor'], normal['amount_per_contributor'])
-# result_amount_low = mannwhitneyu(low['amount_per_contributor'], normal['amount_per_contributor'])
-# result_amount_high
-# result_amount_low
-result_high = ttest_ind(high['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
-result_low = ttest_ind(low['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
+st.markdown("**Mann-Whitney U Test result:**")
+result_amount_high = mannwhitneyu(high['amount_per_contributor'], normal['amount_per_contributor'])
+result_amount_low = mannwhitneyu(low['amount_per_contributor'], normal['amount_per_contributor'])
+
+# result_high = ttest_ind(high['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
+# result_low = ttest_ind(low['amount_per_contributor'], normal['amount_per_contributor'], equal_var=False)
 
 
 holders_str = f"""
-<p>P Value of high_ratio vs normal group: {result_high.pvalue}</p>
-<p>P Value of low_ratio vs normal group:  {result_low.pvalue}</p>
+<p>P Value of high_ratio vs normal group: {result_amount_high.pvalue}</p>
+<p>P Value of low_ratio vs normal group:  {result_amount_low.pvalue}</p>
 """
 st.markdown(holders_str, unsafe_allow_html=True)
 
@@ -184,24 +190,29 @@ It is clear that distribution of low ratio group is extraordinary, thier number 
 
 We can understand this behaivoir, attackers in low_ratio group put more effort on creating puppet account than collecting stamps.
 On the other hand, distribution of high_ratio group has a similar form to normal group.
+""")
 
+st.markdown("**Mann-Whitney U Test result:**")
+result_contributor_high = mannwhitneyu(high['contributor_count_in_round'], normal['contributor_count_in_round'])
+result_contributor_low = mannwhitneyu(low['contributor_count_in_round'], normal['contributor_count_in_round'])
+# result_contributor_high = ttest_ind(high['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
+# result_contributo_low = ttest_ind(low['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
+
+holders_str = f"""
+<p>P Value of high_ratio vs normal group: {result_contributor_high.pvalue}</p>
+<p>P Value of low_ratio vs normal group:  {result_contributor_low.pvalue}</p>
+"""
+st.markdown(holders_str, unsafe_allow_html=True)
+
+st.text("")
+
+st.write("""
 Assuming there are no sybil attackers, distribution of above two charts should be the same for all of the three groups.
 """)
 
 # contributors_box = px.box(grants_by_ratio, x="holders_ratio_category", y="contributor_count_in_round")
 # st.plotly_chart(contributors_box)
 
-st.markdown("#### T-Test result")
-# result_contributor_high = mannwhitneyu(high['contributor_count_in_round'], normal['contributor_count_in_round'])
-# result_contributor_low = mannwhitneyu(low['contributor_count_in_round'], normal['contributor_count_in_round'])
-result_contributor_high = ttest_ind(high['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
-result_contributo_low = ttest_ind(low['contributor_count_in_round'], normal['contributor_count_in_round'], equal_var=True)
-
-holders_str = f"""
-<p>P Value of high_ratio vs normal group: {result_contributor_high}</p>
-<p>P Value of low_ratio vs normal group:  {result_contributo_low.pvalue}</p>
-"""
-st.markdown(holders_str, unsafe_allow_html=True)
 
 fig = px.scatter(grants_by_ratio,
     x='contributor_count_in_round', y='amount_per_contributor',
@@ -211,7 +222,7 @@ fig = px.scatter(grants_by_ratio,
 st.plotly_chart(fig)
 
 st.write("""
-In the scatter plot, it is more evident that some of the grants in low ratio group have too many contributors and too small amount per contributor, compared to the other two groups.
+In the scatter plot, it is more evident that some of the grants in low ratio group(Green) have too many contributors and too small amount per contributor, compared to the other two groups.
 """)
 
 
@@ -220,7 +231,7 @@ st.subheader("4. Summary & Proposals")
 st.markdown("""
 In conclusion, they are likely to be sybil attackers if they have low stamp holders ratio + too small average amount donations + too many contributors.
 
-some of grants having high stamp holders ratio may also suspicious, but not so clear compared to the above case.
+some of grants having high stamp holders ratio may also suspicious, but we could not find statistical difference between them and normal group.
 
 We belive Gitcoin team can introduce this method as one of the sybil detection legos.
 """)

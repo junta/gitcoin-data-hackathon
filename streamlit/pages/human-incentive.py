@@ -50,7 +50,7 @@ And propose a method to make screening process better with repository score at l
 """)
 
 st.markdown("""
-    table of contents:
+    #### table of contents:
     1. Introduction of Github critical score
     2. Overview of critical score of grantee of GR15
     3. Correlation between critical score and other variables
