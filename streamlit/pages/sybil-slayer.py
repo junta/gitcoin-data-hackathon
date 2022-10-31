@@ -28,7 +28,7 @@ st.sidebar.markdown("# Sybil Slayer Bounties")
 
 st.write("""
 In this analysis, We focused on one type of Sybil, attackers(not farmers). 
-And analyzed their behavior combined with Gitcoin Passport data.
+And conducted exploratory data analysis combined with Gitcoin Passport data to identify potential Sybils and figure out their behavior.
 We categorized each grant into three categories by Stamp Holders Ratio, and 
 observe differences among them.
 """)

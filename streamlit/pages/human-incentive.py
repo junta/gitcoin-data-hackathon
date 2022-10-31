@@ -47,8 +47,8 @@ st.markdown("# Hack Human Incentive")
 st.sidebar.markdown("# hack Human Incentive")
 
 st.write("""
-We analyzed each grant's Github repository score in this bounty. 
-And propose a method to make reviewing process of grant applications better with the repository score at last.
+We gathered and analyzed each grant's Github repository score and observed correlation with other variables. 
+And propose a method to make reviewing process of grant applications better with the repository score.
 """)
 
 st.markdown("""
@@ -66,12 +66,12 @@ The goal of this bounty is to make observations and propose improvements about h
 
 [Open Source Project Criticality Score](https://github.com/ossf/criticality_score), 
 built and maintained by Securing Critical Projects WG of [OpenSSF](https://openssf.org/), 
-generates a criticality score for any open-source projects.
+generates a criticality score for open-source projects.
 
 The criticality_score takes into consideration [a variety of parameters](https://github.com/ossf/criticality_score#criticality-score), 
 for example, commit_frequency, contributor_count, etc..., and their repository has over 1K stars.
 
-Here are tge top 10 highest-scored repositories across all languages.
+Here are the top 10 highest-scored repositories across all languages.
 """)
 
 st.dataframe(get_top_repos().head(10))
@@ -83,7 +83,7 @@ st.text("")
 st.subheader("2. Data Overview of GR15 grant's Github Critical Score")
 
 st.write("""
-We have gathered the score for all applicable grants of Gitcoin round 15. We did this process on Oct 19th, so the scores we gathered could be different from scores during GR15.
+We have gathered the score for all applicable grants of Gitcoin round 15. We conducted this process on Oct 19th, so the scores we gathered could be different from scores during GR15.
 
 Of course, this method can apply to only development projects they have Github repository, and not all projects provided their github_repo_url.
 """)
@@ -131,7 +131,7 @@ st.dataframe(valid_grants.sort_values('score').head(5)[['grant_id', 'title', 'sc
 st.write("""A typical example of lowest scored project:""")
 st.markdown("[Malicious Contract Detector](https://github.com/0xidase/Malicious-Contract-Detector)")
 st.image('./streamlit/images/Malicious-Contract-Detector.png')
-st.write("""This repository has nothing but just README or License files!""")
+st.write("""This repository has nothing but just README, License and gitignore files!""")
 
 
 fig = px.histogram(valid_grants, x="score", title="Histgram of grant's Github Score")
@@ -156,9 +156,9 @@ for_corr = valid_grants[['score', 'amount_received', 'amount_received_in_round',
 st.table(for_corr.corr())
 
 st.write("""
-We can observe some correlation between score and amount_received, contribution_count, contributor_count. 
+We can observe some correlation between score and amount_received, contribution_count, contributor_count(r = 0.4~0.49). 
 
-But surprisingly little correlation between score and amount_received_in_round.
+But surprisingly little correlation between score and amount_received_in_round(r = 0.16).
 This means that top scored project has more donation amount/contributions/contributors in all past period, but not so much in round 15.
 """)
 
@@ -198,5 +198,7 @@ st.markdown("""
     For example, run the scoring tool automatically and add label them "Suspicious" If score < 0.1.
     Then reviewer checks them one by one manually with their other materials(Twitter account, project URL, etc...).
 
-    3. High-scored projects have received more contributions in the long run historically. (r = 0.4~0.49)
+    3. High-scored projects have received more contributions in the long run historically, but not in GR15.
+    The scoring tool may be helpful to find undervalued projects at the moment.
+    **Future work:** Figuring out the reason why there is little correlation between score and amount received in GR15.
 """)
