@@ -27,10 +27,10 @@ st.markdown("# Sybil Slayer Bounties")
 st.sidebar.markdown("# Sybil Slayer Bounties")
 
 st.write("""
-In this analysis, We focused on one type of Sybil, attackers(not farmers). 
-And conducted exploratory data analysis combined with Gitcoin Passport data to identify potential Sybils and figure out their behavior.
+In this analysis, We focused on one type of Sybil, attacker(not farmer). 
+We conducted exploratory data analysis combined with Gitcoin Passport data to identify potential Sybils and figure out their behavior.
 We categorized each grant into three categories by Stamp Holders Ratio, and 
-observe differences among them.
+observed differences among them.
 """)
 
 st.markdown("""
@@ -58,8 +58,8 @@ st.subheader("2. Overview of Gitcoin Passport data")
 st.markdown("""
 We gathered Gitcoin Passport data of all contributors in Round 15 by [Gitcoin Passport SDK: Reader](https://github.com/gitcoinco/passport-sdk/tree/main/packages/reader).
 
-And filtered their stamps to valid stamps as issuance date is before 2022-09-23(the last day of GR15) and not expired yet, 
-then aggregated stamps count and merged them into grants dataset.
+And filtered their stamps to valid stamps as issuance date is before 2022-09-23(the last day of GR15) and not expired yet.
+Then aggregated stamps count and merged them into grants dataset.
 
 You can find [grants_stamps.csv data here](https://github.com/junta/gitcoin-data-hackathon/blob/main/analytics_data/grants_stamps.csv).
 """)
@@ -125,16 +125,16 @@ st.write("""
 The above graph also shows overlaid histogram of the top 50 projects(grants) with the highest amount of contributions received in GR15.
 Their Stamp Holders Ratio ranges from 0.33 to 0.68 and has a normal distribution.
 
-Mean value of holders_ratio is 0.53. This means for each grant, half of their contributors are non stamp holders, and the other half are stamp holders on average.
+Mean value of holders_ratio among all grants is 0.53. This means for each grant, around half of their contributors are non-stamp holders, and the other half are stamp holders on average.
 """)
 
 st.markdown("""
-Then, We split grants into three groups by Stamp Holders Ratio as follows.
+Then, We split grants into three categories by Stamp Holders Ratio as follows.
 | Category   | Description                                                                                                                               |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | High ratio | Top 50 projects with the highest stamp holder ratio                                                                                       |
 | Low ratio  | Bottom 50 projects with the lowest stamp holder ratios                                                                                    |
-| Normal     | Rest of them. (Projects not included in either of top50 or high/low ratio groups fall into this group. random sampled 50, when show charts.) |
+| Normal     | Others. (Projects not included in either of top50 or high/low ratio groups fall into this group. random sampled 50, when showing charts.) |
 
 """)
 st.text("")
@@ -146,7 +146,7 @@ high = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'high']
 low = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'low']
 normal = grants_by_ratio[grants_by_ratio['holders_ratio_category'] == 'normal']
 
-st.markdown("#### List of Grants in each category")
+st.markdown("#### List of Grants by category")
 tab1, tab2, tab3, tab4 = st.tabs(["Top", "Normal", "High Ratio", "Low Ratio"])
 with tab1:
     st.dataframe(top)
@@ -158,7 +158,7 @@ with tab4:
     st.dataframe(low)
 
 st.write("""
-We assume that some of the grants in high and low ratio groups are suspicious attackers, because they are likely manipulated artificially if the ratio is too high or low.
+We assume that some of the grants in high and low ratio groups are suspicious as attackers, because they are likely manipulated artificially if the ratio is too high or low.
 And there would be some statistical difference from the normal group.
 """)
 
@@ -240,7 +240,7 @@ In the scatter plot, it is more evident that some of the grants in low ratio gro
 
 st.markdown("""
     #### Suspicious projects(as Sybil attacker)
-    (contributor_count_in_round > 500) and (amount_per_contributor < 3) and in low_ratio group
+    (contributor_count_in_round > 500) and (amount_per_contributor < 3.0) and in low_ratio group
 """)
 suspicious = grants_by_ratio[(grants_by_ratio['contributor_count_in_round'] > 500) & (grants_by_ratio['amount_per_contributor'] < 3) & (grants_by_ratio['holders_ratio_category'] == 'low')]
 st.dataframe(suspicious)

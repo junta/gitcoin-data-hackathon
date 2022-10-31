@@ -76,14 +76,14 @@ Here are the top 10 highest-scored repositories across all languages.
 
 st.dataframe(get_top_repos().head(10))
 
-st.write("We can see many famous projects in the list, and their reliable scores.")
+st.write("We can see famous projects in the list.")
 
 st.text("")
 
 st.subheader("2. Data Overview of GR15 grant's Github Critical Score")
 
 st.write("""
-We have gathered the score for all applicable grants of Gitcoin round 15. We conducted this process on Oct 19th, so the scores we gathered could be different from scores during GR15.
+We have gathered the scores for all applicable grants of Gitcoin round 15. We conducted this process on Oct 19th, so the scores we gathered could be different from scores during GR15.
 
 Of course, this method can apply to only development projects they have Github repository, and not all projects provided their github_repo_url.
 """)
@@ -99,7 +99,7 @@ st.text("")
 st.markdown("""
 We can categorize those 928 URLs into the four following categories.
 - Repository URL: Direct link to a certain repository
-- Profile URL: Link to their organization or profile account
+- Profile URL: Link to their organization or profile account page
 - 404 Not Found: did not provide a valid URL or delete the repository after GR15.
 - Not Github URL: did not provide Github URL.(their own website URL, Gitcoin profile URL, etc...)
 """)
@@ -114,7 +114,7 @@ st.markdown("**About 9.5% of approved projects(87 projects) provided invalid URL
 
 st.write("""
 Although submitting Github profile URL(profile_url) is valid, We excluded them from our scoring analysis because
-we have to specify one main repository to generate the score..
+we have to specify one main repository to generate the score.
 """)
 
 st.text("")
@@ -159,7 +159,7 @@ st.write("""
 We can observe some correlation between score and amount_received, contribution_count, contributor_count(r = 0.4~0.49). 
 
 But surprisingly little correlation between score and amount_received_in_round(r = 0.16).
-This means that top scored project has more donation amount/contributions/contributors in all past period, but not so much in round 15.
+This means that high scored project has more donation amount/contributions/contributors in all past period, but not so much in round 15.
 """)
 
 st.text("")
@@ -188,17 +188,18 @@ st.text("")
 st.subheader("4. Summary & Proposals")
 
 st.markdown("""
-    1. In GR15, 87 projects provided invalid Github URL. Those projects might submit wrong URL, but also might not be eligible for Gitcoin grants round.
+    1. In GR15, 87 projects provided invalid Github URL. Those projects might submit wrong URL unintentionally, but also might not be eligible for Gitcoin grants round.
     **Proposal:** Introducing checking provided URL is valid or not and filtering out invalid ones or show a warning alert.
-    This could be implemented in grant application page of Gitcoin application or reviewing process.  
+    This could be implemented in grant application page of Gitcoin app or reviewing process.  
 
 
-    2. Low-scored projects(ex. less than 0.1 score) may be fake projects or may not be eligible for Gitcoin grants round.
+    2. Low-scored projects(ex. score < 0.1) may be fake projects or may not be eligible for Gitcoin grants round.
     **Proposal:** Utilizing the scoring tool in the review process. 
     For example, run the scoring tool automatically and add label them "Suspicious" If score < 0.1.
     Then reviewer checks them one by one manually with their other materials(Twitter account, project URL, etc...).
 
     3. High-scored projects have received more contributions in the long run historically, but not in GR15.
     The scoring tool may be helpful to find undervalued projects at the moment.
+    
     **Future work:** Figuring out the reason why there is little correlation between score and amount received in GR15.
 """)
