@@ -110,6 +110,8 @@ st.table(get_repo_count_by_category())
 fig = px.pie(get_repo_count_by_category(), values='count', names='category')
 st.plotly_chart(fig)
 
+st.markdown("[repository_score.csv](https://github.com/junta/gitcoin-data-hackathon/blob/main/github/repository_score.csv)")
+
 st.markdown("**About 9.5% of approved projects(87 projects) provided invalid URL(404_not_found + not_github_url) as Github URL.**")
 
 st.write("""
@@ -200,6 +202,6 @@ st.markdown("""
 
     3. High-scored projects have received more contributions in the long run historically, but not in GR15.
     The scoring tool may be helpful to find undervalued projects at the moment.
-    
+
     **Future work:** Figuring out the reason why there is little correlation between score and amount received in GR15.
 """)

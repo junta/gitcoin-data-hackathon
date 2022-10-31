@@ -192,7 +192,7 @@ Median value in high_ratio is a bit lower than normal group, but no statisticall
 
 contributors_hist = px.histogram(grants_by_ratio, x="contributor_count_in_round", color="holders_ratio_category",
                    marginal="box", # or violin, rug
-                   title='Histgram of number of contributors in GR15'
+                   title='Histgram of number of contributors'
                    )
 st.plotly_chart(contributors_hist)
 
